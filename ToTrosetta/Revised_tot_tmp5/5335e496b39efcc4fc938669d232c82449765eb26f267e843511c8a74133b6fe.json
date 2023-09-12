@@ -1,0 +1,249 @@
+{
+     "source_language": "miwoc",
+     "target_language": "english",
+     "meta": "The č and š symbols represent '“ch” and “sh” respectively, while x represents a glottal stop, the sound between the two syllables in “uh‐oh”.",
+     "train": [
+          [
+               "yilim",
+               "I bite"
+          ],
+          [
+               "yiliš",
+               "You.SG bite"
+          ],
+          [
+               "yili",
+               "He bites"
+          ],
+          [
+               "yilimaš",
+               "We bite"
+          ],
+          [
+               "yilitoš",
+               "You.PL bite"
+          ],
+          [
+               "yilip",
+               "They bite"
+          ],
+          [
+               "yilak",
+               "I bit"
+          ],
+          [
+               "yilaš",
+               "You.SG bit"
+          ],
+          [
+               "yila",
+               "He bit"
+          ],
+          [
+               "yilakmaš",
+               "We bit"
+          ],
+          [
+               "yilaktoš",
+               "You.PL bit"
+          ],
+          [
+               "yilap",
+               "They bit"
+          ],
+          [
+               "yilakmutoš",
+               "I bit you all"
+          ],
+          [
+               "yilak",
+               "I bit him"
+          ],
+          [
+               "yilimaš",
+               "We bite them"
+          ],
+          [
+               "yilakmu",
+               "You.SG bit me"
+          ],
+          [
+               "yilimuč",
+               "You.PL bite me"
+          ],
+          [
+               "yilimušmeč",
+               "You.PL bite us"
+          ],
+          [
+               "yilit",
+               "He bites me"
+          ],
+          [
+               "yilat",
+               "He bit me"
+          ],
+          [
+               "yilim",
+               "He bites us"
+          ],
+          [
+               "yilin",
+               "He bites you.SG"
+          ],
+          [
+               "yilaton",
+               "He bit you.PL"
+          ],
+          [
+               "yiliput",
+               "They bite me"
+          ],
+          [
+               "yilipun",
+               "They bite you.SG"
+          ],
+          [
+               "yilaputon",
+               "They bit you.PL"
+          ],
+          [
+               "kači",
+               "He speaks"
+          ],
+          [
+               "kačiton",
+               "He speaks to you.PL"
+          ],
+          [
+               "kačimuš",
+               "I speak to you"
+          ],
+          [
+               "kačimu",
+               "You.SG speak to me"
+          ],
+          [
+               "kačitoknixmaš",
+               "We speak to you.PL"
+          ],
+          [
+               "lotaknixmaš",
+               "We caught you.SG"
+          ],
+          [
+               "lotakmutoš",
+               "I caught you.PL"
+          ],
+          [
+               "lotaktoknixmaš",
+               "We caught you.PL"
+          ],
+          [
+               "lotakmuč",
+               "You.PL caught me"
+          ],
+          [
+               "lotaput",
+               "They caught me"
+          ],
+          [
+               "lotakmušmeč",
+               "You.PL caught us"
+          ],
+          [
+               "lotipum",
+               "They catch us"
+          ],
+          [
+               "xinam",
+               "He came to us"
+          ],
+          [
+               "xinapum",
+               "They came to us"
+          ],
+          [
+               "xinakmuš",
+               "I came to you"
+          ],
+          [
+               "xinakmušme",
+               "You.SG came to us"
+          ],
+          [
+               "xiniš",
+               "You.SG come to him"
+          ],
+          [
+               "xiniputon",
+               "They come to you.PL"
+          ],
+          [
+               "šiyičit",
+               "He watches me"
+          ],
+          [
+               "šiyičimušme",
+               "You.SG watch us"
+          ],
+          [
+               "šiyičimutoš",
+               "I watch you.PL"
+          ],
+          [
+               "šiyičinixmaš",
+               "We watch you.SG"
+          ],
+          [
+               "šiyičapun",
+               "They watched you.SG"
+          ],
+          [
+               "šiyičakmuš",
+               "I watched you.SG"
+          ]
+     ],
+     "test": [
+          [
+               "kačitoknixmaš",
+               "We spoke to you.PL",
+               "<"
+          ],
+          [
+               "xinapum",
+               "He came to them.",
+               "<"
+          ],
+          [
+               "You.SG bite us.",
+               "You.SG bit us.",
+               "<"
+          ],
+          [
+               "kačapum",
+               "They speak to us",
+               "<"
+          ],
+          [
+               "šiyičaton",
+               "He watched you.PL.",
+               ">"
+          ],
+          [
+               "lotimu",
+               "I caught you.",
+               ">"
+          ],
+          [
+               "yilanimaš",
+               "We bit you.PL.",
+               ">"
+          ],
+          [
+               "kačan",
+               "He speaks to me.",
+               ">"
+          ]
+     ]
+}

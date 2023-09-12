@@ -1,0 +1,132 @@
+{
+     "source_language": "nahuatl",
+     "target_language": "english",
+     "meta": "ch, hu, ku, tl, tz, uh are consonants. The mark  ̄ denotes vowel length.",
+     "train": [
+          [
+               "nimitztlazohtla",
+               "I love you"
+          ],
+          [
+               "tikmaka in ¯amoxtli",
+               "you give the book to him"
+          ],
+          [
+               "nitlahtoa",
+               "I say something"
+          ],
+          [
+               "k¯atl¯ıtia in kuauhx¯ınki in pochtekatl",
+               "(the merchant makes the carpenter drink/the carpenter makes the merchant drink)"
+          ],
+          [
+               "titz¯ahtzi",
+               "you shout"
+          ],
+          [
+               "niki in ¯at¯olli",
+               "I drink the atole"
+          ],
+          [
+               "tiku¯ıka",
+               "you sing"
+          ],
+          [
+               "tin¯echtlak¯ahuilia",
+               "you leave something for me"
+          ],
+          [
+               "kochi in t¯ız¯ıtl",
+               "the healer sleeps"
+          ],
+          [
+               "niknekiltia in kuauhx¯ınki in ¯amoxtli",
+               "I make the carpenter want the book"
+          ],
+          [
+               "mitzt¯ehu¯ıtekilia",
+               "(he beats you for somebody/he beats somebody for you)"
+          ],
+          [
+               "k¯ehua in kikatl",
+               "sings the song"
+          ],
+          [
+               "niktlalhuia in zihu¯atl",
+               "I say something to the woman"
+          ],
+          [
+               "tikt¯ek¯ahualtia in oktli",
+               "you make somebody leave the wine"
+          ],
+          [
+               "¯atli",
+               "he drinks"
+          ],
+          [
+               "tlach¯ıhua in pochtekatl",
+               "the merchant prepares something"
+          ],
+          [
+               "t¯ehuetz¯ıtia in zihu¯atl",
+               "the woman makes somebody fall"
+          ]
+     ],
+     "test": [
+          [
+               "tiktlazohtlaltia in zihu¯atl in kuauhx¯ınki",
+               "you love the woman the merchant",
+               ">"
+          ],
+          [
+               "n¯echtz¯ahtz¯ıtia",
+               "You make somebody shout.",
+               ">"
+          ],
+          [
+               "tikhu¯ıteki",
+               "you want",
+               ">"
+          ],
+          [
+               "nik¯ehuilia in kikatl in t¯ız¯ıtl",
+               "Nik¯ehuilia in kikatl in t¯ız¯ıtl.",
+               ">"
+          ],
+          [
+               "nikneki in ¯at¯olli",
+               "I want the atole.",
+               ">"
+          ],
+          [
+               "mitztlak¯ahualtia",
+               "Mitzt¯ehu¯ıtekilia",
+               ">"
+          ],
+          [
+               "mitztlazohtla in ¯at¯olli",
+               "he makes me prepare the atole",
+               "<"
+          ],
+          [
+               "tit¯ehuetz¯ıtia in oktli",
+               "you prepare the wine for somebody",
+               "<"
+          ],
+          [
+               "kochi in t¯ız¯ıtl in tlatlauhqui",
+               "the healer makes you sleep",
+               "<"
+          ],
+          [
+               "nitiku¯ıka in ¯at¯olli",
+               "I sing something",
+               "<"
+          ],
+          [
+               "niktlach¯ıhua",
+               "I fall",
+               "<"
+          ]
+     ]
+}

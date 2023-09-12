@@ -1,0 +1,100 @@
+{
+     "source_language": "danish",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "fire",
+               "four"
+          ],
+          [
+               "toogtyve",
+               "twenty two"
+          ],
+          [
+               "ni",
+               "nine"
+          ],
+          [
+               "enogfirs",
+               "eighty one"
+          ],
+          [
+               "fem",
+               "five"
+          ],
+          [
+               "nioghalvfjerds",
+               "seventy nine"
+          ],
+          [
+               "seksogtres",
+               "sixty six"
+          ],
+          [
+               "syvoghalvtreds",
+               "fifty seven"
+          ],
+          [
+               "tre",
+               "three"
+          ]
+     ],
+     "test": [
+          [
+               "seks",
+               "six",
+               ">"
+          ],
+          [
+               "nioghalvtreds",
+               "fifty nine",
+               ">"
+          ],
+          [
+               "treogtyve",
+               "twenty three",
+               ">"
+          ],
+          [
+               "femoghalvfems",
+               "eighty five",
+               ">"
+          ],
+          [
+               "toogtres",
+               "eighty",
+               ">"
+          ],
+          [
+               "halvfjerds",
+               "seventy",
+               ">"
+          ],
+          [
+               "syv",
+               "seven",
+               "<"
+          ],
+          [
+               "fireoghalvtreds",
+               "fifty four",
+               "<"
+          ],
+          [
+               "enogtyve",
+               "twenty one",
+               "<"
+          ],
+          [
+               "femogfirs",
+               "eighty five",
+               "<"
+          ],
+          [
+               "nioghalvfems",
+               "ninety nine",
+               "<"
+          ]
+     ]
+}

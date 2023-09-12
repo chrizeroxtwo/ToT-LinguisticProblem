@@ -1,0 +1,123 @@
+{
+     "source_language": "abma",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "Mwamni sileng.",
+               "He drinks water."
+          ],
+          [
+               "Nutsu mwatbo mwamni sileng.",
+               "The child keeps drinking water."
+          ],
+          [
+               "Nutsu mwegau.",
+               "The child grows."
+          ],
+          [
+               "Nutsu mwatbo mwegalgal.",
+               "The child keeps crawling."
+          ],
+          [
+               "Mworob mwabma.",
+               "He runs here."
+          ],
+          [
+               "Mwerava Mabontare mwisib.",
+               "He pulls Mabontare down."
+          ],
+          [
+               "Mabontare mwisib.",
+               "Mabontare goes down."
+          ],
+          [
+               "Mweselkani tela mwesak.",
+               "He carries the axe up."
+          ],
+          [
+               "Mwelebte sileng mwabma.",
+               "He brings water."
+          ],
+          [
+               "Mabontare mworob mwesak.",
+               "Mabontare runs up."
+          ],
+          [
+               "Sileng mworob.",
+               "The water runs."
+          ],
+          [
+               "sesesrakan",
+               "teacher"
+          ],
+          [
+               "mwegani",
+               "eat"
+          ],
+          [
+               "bwet",
+               "taro"
+          ],
+          [
+               "muhural",
+               "walk"
+          ],
+          [
+               "butsukul",
+               "palm‐tree"
+          ]
+     ],
+     "test": [
+          [
+               "Sesesrakan mweselkani sileng mwisib.",
+               "The teacher carries the water down.",
+               "<"
+          ],
+          [
+               "Nutsu mwegani.",
+               "The child keeps eating.",
+               "<"
+          ],
+          [
+               "Mabontare mwegani bwet.",
+               "Mabontare eats taro.",
+               "<"
+          ],
+          [
+               "Nutsu mwatbo mwabma.",
+               "The child crawls here.",
+               "<"
+          ],
+          [
+               "Sesesrakan mwisib mwesak.",
+               "The teacher walks uphill.",
+               "<"
+          ],
+          [
+               "Butsukul mwegalgal.",
+               "The palm-tree keeps growing downwards.",
+               "<"
+          ],
+          [
+               "Mwisib mwesak.",
+               "He goes up.",
+               "<"
+          ],
+          [
+               "Sesesrakan mweselkani bwet mwabma.",
+               "The teacher brings taro.",
+               ">"
+          ],
+          [
+               "Sileng mworob mwisib.",
+               "The water goes down.",
+               ">"
+          ],
+          [
+               "Mwelebte bwet mwesak.",
+               "He brings taro up.",
+               ">"
+          ]
+     ]
+}

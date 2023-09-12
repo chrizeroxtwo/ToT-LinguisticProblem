@@ -1,0 +1,114 @@
+{
+     "source_language": "benabena",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "nohobe",
+               "I am striking him"
+          ],
+          [
+               "kahalune",
+               "we will strike you.SG"
+          ],
+          [
+               "nokoho’ibe",
+               "we both are striking you.SG"
+          ],
+          [
+               "nolenufu’inagihe",
+               "because we both are piercing you.PL"
+          ],
+          [
+               "nolifi’ibe",
+               "you both are piercing us"
+          ],
+          [
+               "nofunagihe",
+               "because I am piercing him"
+          ],
+          [
+               "nofine",
+               "you.SG are piercing him"
+          ],
+          [
+               "nifila’ibe",
+               "you both will pierce me"
+          ],
+          [
+               "nonahatagihe",
+               "because you.SG are striking me"
+          ],
+          [
+               "lenahalube",
+               "I will strike you.PL"
+          ],
+          [
+               "nahalanagihe",
+               "because you.PL will strike me"
+          ],
+          [
+               "lahala’ibe",
+               "you both will strike us"
+          ],
+          [
+               "nofutagihe",
+               "because we are piercing him"
+          ],
+          [
+               "lenifilu’ibe",
+               "we both will pierce you.PL"
+          ],
+          [
+               "noho’inagihe",
+               "because we both are striking him"
+          ]
+     ],
+     "test": [
+          [
+               "nonifibe",
+               "you both are striking us",
+               ">"
+          ],
+          [
+               "halu’ibe",
+               "you both will strike me",
+               ">"
+          ],
+          [
+               "lifilatagihe",
+               "because we both will pierce you.PL",
+               ">"
+          ],
+          [
+               "nokufune",
+               "because we will pierce you.SG",
+               ">"
+          ],
+          [
+               "nolahanagihe",
+               "because we.PL will strike me",
+               ">"
+          ],
+          [
+               "nonohobe",
+               "you both are striking him",
+               "<"
+          ],
+          [
+               "kahalune",
+               "we will pierce you.SG",
+               "<"
+          ],
+          [
+               "nokoho’ibe",
+               "because we are striking you.PL",
+               "<"
+          ],
+          [
+               "nolifutagihe",
+               "because you.PL will pierce him",
+               "<"
+          ]
+     ]
+}

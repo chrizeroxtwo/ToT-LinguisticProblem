@@ -1,0 +1,63 @@
+{
+     "source_language": "lalana chinantec",
+     "target_language": "english",
+     "meta": "In the following orthography a colon (:) marks a long vowel, and the Ɂ symbol marks a glottal stop (like the sound in the middle of uh-oh)",
+     "train": [
+          [
+               "kalakwa: kwɨ: li:Ɂ",
+               "The beautiful corn grew."
+          ],
+          [
+               "mɨlaʤö mo:h kya",
+               "My pineapples have turned out well."
+          ],
+          [
+               "li:Ɂ kalane kwɨ: kwa: kya",
+               "My tall corn yellowed beautifully."
+          ],
+          [
+               "ʤö kalaro:h mo:h ne kya",
+               "My yellow pineapples ripened well."
+          ],
+          [
+               "kalaʤö kwɨ:",
+               "The corn turned out well."
+          ],
+          [
+               "mɨlakwa: kwɨ:",
+               "The corn has grown."
+          ]
+     ],
+     "test": [
+          [
+               "li:Ɂ",
+               "The corn grew.",
+               ">"
+          ],
+          [
+               "ro:h",
+               "The pineapples turned out well.",
+               ">"
+          ],
+          [
+               "The good pineapples became beautiful.",
+               "The good pineapples became beautiful",
+               "<"
+          ],
+          [
+               "li:Ɂ kalane kwɨ: ne kya.",
+               "My ripe corn has yellowed well.",
+               "<"
+          ],
+          [
+               "mɨlaro:h kwɨ: ne",
+               "The pineapples have ripened.",
+               ">"
+          ],
+          [
+               "li:Ɂ kalakwa: kwɨ:",
+               "The beautiful corn has grown.",
+               ">"
+          ]
+     ]
+}

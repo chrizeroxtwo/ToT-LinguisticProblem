@@ -1,0 +1,99 @@
+{
+     "source_language": "kunuz nubian",
+     "target_language": "english",
+     "meta": "The mark ː indicates that the preceding vowel is long.",
+     "train": [
+          [
+               "ar kanarriːcciːg kamiːg jaːnticcirsu.",
+               "We bought the camels for the neighbours."
+          ],
+          [
+               "tirt kadeːg allesu.",
+               "The owner repaired the dress."
+          ],
+          [
+               "jahali waliːg darbadki biticcirra.",
+               "The young men will give the chicken to the dogs."
+          ],
+          [
+               "man jahalgi kadeːcciːg maːgtirsu.",
+               "He stole the dresses for the young man."
+          ],
+          [
+               "ay beyyeːcciːg ajaːnirri.",
+               "I am buying the necklaces."
+          ],
+          [
+               "wal aygi baːbiːg eldeːnsu.",
+               "The dog found the doors for me."
+          ],
+          [
+               "magas ikki waliːg ticcirsu.",
+               "The thief gave you.PL the dogs."
+          ],
+          [
+               "iːdi magaski kamiːg tirsa.",
+               "The men gave the camels to the thief."
+          ],
+          [
+               "ay hanuːg bijomri.",
+               "I will strike the donkey."
+          ],
+          [
+               "sarkaːyi aygi beyyeːcciːg adeːnda.",
+               "The cowards are giving me the necklaces."
+          ]
+     ],
+     "test": [
+          [
+               "magasi argi ajomirra.",
+               "The thieves will strike him.",
+               ">"
+          ],
+          [
+               "ay kanarriːg baːbki alletirsi.",
+               "I bought the doors for the neighbours.",
+               ">"
+          ],
+          [
+               "hanu tirtiːg elirsu.",
+               "The donkey repaired the dress.",
+               ">"
+          ],
+          [
+               "tirti argi kamgi deːccirsa.",
+               "The owner stole the camels.",
+               ">"
+          ],
+          [
+               "ay darbadki bijaːndi.",
+               "I will give the chicken to the coward.",
+               ">"
+          ],
+          [
+               "'ar kanarriːcciːg ajaːnirri jaːnticcirsu.",
+               "The neighbours are giving the necklace to the owner.",
+               "<"
+          ],
+          [
+               "man jahalgi baːbiːg kamiːg maːgtirsu.",
+               "The young man bought the dog for us.",
+               "<"
+          ],
+          [
+               "ay argi deːccirra.",
+               "We will steal him.",
+               "<"
+          ],
+          [
+               "tirt argi bijomri.",
+               "The owners struck the thieves.",
+               "<"
+          ],
+          [
+               "wal bitiːg darbadki ticcirsu.",
+               "The dogs found the chickens for the coward.",
+               "<"
+          ]
+     ]
+}

@@ -1,0 +1,97 @@
+{
+     "source_language": "georgian",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "კარს ვაღებ.",
+               "I am opening the door."
+          ],
+          [
+               "სახლს აშენებ.",
+               "You.SG are building a house."
+          ],
+          [
+               "ედუარდ წერილს იღებს.",
+               "Eduard is receiving a letter."
+          ],
+          [
+               "ფარდულს ვაშენებთ.",
+               "We are building a barn."
+          ],
+          [
+               "საჩუქარს აღებთ.",
+               "You.PL are opening a gift."
+          ],
+          [
+               "ანდრია და მისი დედა პაკეტს იღებენ.",
+               "Andria and his mother are receiving a package."
+          ],
+          [
+               "ხაჭაპური გავაკეთე.",
+               "I have made khachapuri."
+          ],
+          [
+               "კარი შეაკეთე.",
+               "You.SG have repaired the door."
+          ],
+          [
+               "ანდრიამ პოემა დაწერა.",
+               "Andria has written a poem."
+          ],
+          [
+               "ლევან და მე აკტომობილი შევაკეთეთ.",
+               "Levan and I have repaired the car."
+          ],
+          [
+               "სადილი გააკეთეთ.",
+               "You.PL have made dinner."
+          ],
+          [
+               "ედუარდ და ეკატერინემ წერილი დაწერეს.",
+               "Eduard and Ekaterine have written a letter."
+          ]
+     ],
+     "test": [
+          [
+               "წერილს აღებენ",
+               "They are receiving a letter.",
+               ">"
+          ],
+          [
+               "კომპუტერი შეაკეთეთ.",
+               "You.SG have built a computer.",
+               ">"
+          ],
+          [
+               "ადამ მუზეუმს აშენებს",
+               "Adam is building a museum.",
+               ">"
+          ],
+          [
+               "ისტორია დავწერეთ.",
+               "We have written history.",
+               ">"
+          ],
+          [
+               "საჩუქარს აღებენ.",
+               "You.SG are opening a barn.",
+               "<"
+          ],
+          [
+               "მანქანას შევკეთეთ.",
+               "I have repaired the car.",
+               "<"
+          ],
+          [
+               "სადილს ვიღებთ.",
+               "We are receiving dinner.",
+               "<"
+          ],
+          [
+               "მათ საჩუქარს შემქმნეს.",
+               "They have made a gift.",
+               "<"
+          ]
+     ]
+}

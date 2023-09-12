@@ -1,0 +1,119 @@
+{
+     "source_language": "zoque",
+     "target_language": "english",
+     "meta": "ǝ represents the vowel sound of English 'e' in open; ʔ represents a glottal stop which is the sound we get in the middle of the expression of disagreement nuh-uh; ŋ is the consonant sound represented by 'ng' as in sing; š is the sound written 'sh' in she",
+     "train": [
+          [
+               "pǝn",
+               "man"
+          ],
+          [
+               "pǝntaʔm",
+               "men"
+          ],
+          [
+               "pǝnkǝsi",
+               "on a man"
+          ],
+          [
+               "pǝnkotoya",
+               "for a man"
+          ],
+          [
+               "pǝnhiʔŋ",
+               "with a man"
+          ],
+          [
+               "pǝnkǝsitaʔm",
+               "on men"
+          ],
+          [
+               "pǝnkǝsišeh",
+               "as on a man"
+          ],
+          [
+               "pǝnšeh",
+               "manlike"
+          ],
+          [
+               "pǝnšehtaʔm",
+               "like men"
+          ],
+          [
+               "teʔ pǝn",
+               "the man"
+          ],
+          [
+               "yomo",
+               "woman"
+          ],
+          [
+               "yomohiʔŋ",
+               "with a woman"
+          ],
+          [
+               "yomotih",
+               "just a woman"
+          ],
+          [
+               "yomoʔune",
+               "girl"
+          ],
+          [
+               "kahši",
+               "hen"
+          ],
+          [
+               "kahšiʔune",
+               "chick"
+          ],
+          [
+               "maŋu teʔ pǝn",
+               "The man went"
+          ],
+          [
+               "maŋpa teʔ pǝn",
+               "The man goes"
+          ],
+          [
+               "maŋkeʔtpa teʔ yomo",
+               "The woman also goes"
+          ],
+          [
+               "minpa teʔ ʔune",
+               "The child comes"
+          ]
+     ],
+     "test": [
+          [
+               "Minpa teʔ ʔune",
+               "The child came",
+               "<"
+          ],
+          [
+               "maŋkeʔtpa teʔ yomoʔune",
+               "The girl also went",
+               "<"
+          ],
+          [
+               "pǝntaʔmhiʔŋ",
+               "with children",
+               "<"
+          ],
+          [
+               "pǝnkotoyataʔm",
+               "for women",
+               "<"
+          ],
+          [
+               "maŋutih teʔ yomoʔune",
+               "The woman came",
+               ">"
+          ],
+          [
+               "yomotihtaʔm",
+               "For women",
+               ">"
+          ]
+     ]
+}

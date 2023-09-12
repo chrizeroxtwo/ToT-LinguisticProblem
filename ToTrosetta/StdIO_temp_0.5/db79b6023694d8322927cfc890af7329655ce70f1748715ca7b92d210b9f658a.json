@@ -1,0 +1,197 @@
+{
+     "source_language": "haitian creole ",
+     "target_language": "english",
+     "meta": "The combinations an, en, and on denote nasal vowels (partially produced through the nose).",
+     "train": [
+          [
+               "kòl la",
+               "the necktie"
+          ],
+          [
+               "jaden an",
+               "the garden"
+          ],
+          [
+               "lanp lan",
+               "the lamp"
+          ],
+          [
+               "kouto yo",
+               "the knives"
+          ],
+          [
+               "mayi a",
+               "the maize"
+          ],
+          [
+               "lanmou an",
+               "the love"
+          ],
+          [
+               "ri a",
+               "the street"
+          ],
+          [
+               "pant lan",
+               "the slope"
+          ],
+          [
+               "manman an",
+               "the mother"
+          ],
+          [
+               "kabann nan",
+               "the bed"
+          ],
+          [
+               "sant yo",
+               "the odours"
+          ],
+          [
+               "lèt la",
+               "the letter"
+          ],
+          [
+               "sans lan",
+               "the sense"
+          ],
+          [
+               "telefòn nan",
+               "the telephone"
+          ],
+          [
+               "kò a",
+               "the body"
+          ],
+          [
+               "mi an",
+               "the wall"
+          ],
+          [
+               "fanm nan",
+               "the woman"
+          ],
+          [
+               "joumou an",
+               "the pumpkin"
+          ],
+          [
+               "ban an",
+               "the bench, the ban"
+          ],
+          [
+               "kay la",
+               "the house"
+          ],
+          [
+               "fanmi an",
+               "the family"
+          ],
+          [
+               "pon an",
+               "the bridge"
+          ],
+          [
+               "liv yo",
+               "the books"
+          ],
+          [
+               "dam nan",
+               "the lady"
+          ],
+          [
+               "moon",
+               "lalin"
+          ],
+          [
+               "pitimi",
+               "millet"
+          ],
+          [
+               "muzik",
+               "music"
+          ],
+          [
+               "maldamou",
+               "love-sickness"
+          ],
+          [
+               "kap",
+               "kite"
+          ],
+          [
+               "radyo",
+               "radio"
+          ],
+          [
+               "vant",
+               "belly"
+          ],
+          [
+               "tan",
+               "time"
+          ]
+     ],
+     "test": [
+          [
+               "lalin",
+               "the moon",
+               "<"
+          ],
+          [
+               "pitimi",
+               "the millet",
+               "<"
+          ],
+          [
+               "muzik la",
+               "music",
+               ">"
+          ],
+          [
+               "maldamou",
+               "the love-sickness",
+               "<"
+          ],
+          [
+               "kap",
+               "the kite",
+               "<"
+          ],
+          [
+               "radyo",
+               "the radio",
+               "<"
+          ],
+          [
+               "vant",
+               "the belly",
+               "<"
+          ],
+          [
+               "tan",
+               "the time",
+               "<"
+          ],
+          [
+               "kouto",
+               "the knife",
+               "<"
+          ],
+          [
+               "kò yo",
+               "the bodies",
+               "<"
+          ],
+          [
+               "sant",
+               "the odor",
+               "<"
+          ],
+          [
+               "liv la",
+               "the book",
+               "<"
+          ]
+     ]
+}

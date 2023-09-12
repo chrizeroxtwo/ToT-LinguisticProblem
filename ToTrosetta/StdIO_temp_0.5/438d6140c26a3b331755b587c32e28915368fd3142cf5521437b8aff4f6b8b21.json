@@ -1,0 +1,100 @@
+{
+ "source_language": "turkish",
+ "target_language": "english",
+ "meta": "• The Turkish letters \"ş\", \"ç\" and \"ı\" are pronounced like English \"sh\", \"ch\" and the \"a\" in \"above\". • The letters i and ı represent different vowels. • The letters u and ü represent different vowels, rather like the difference between the vowel sound in \"foot\" as opposed to \"food\" or \"boot\". • The letter \"ğ\" is usually silent (like the \"gh\" in \"although\").",
+ "train": [
+  [
+   "Arkadaşlarım şehirde mutlu",
+   "My friends [are] happy in the city."
+  ],
+  [
+   "Baban İstanbul'u seviyor mu?",
+   "Does your father like Istanbul?"
+  ],
+  [
+   "Fakirler Van'dan İstanbul'a gelmek istiyor",
+   "Poor people want to come from [the city of] Van to Istanbul."
+  ],
+  [
+   "İstanbul en büyük şehir",
+   "Istanbul is the biggest city."
+  ],
+  [
+   "Eve geliyorlar",
+   "They [come/are coming] home."
+  ],
+  [
+   "Babam 'Merhaba! Gel, arkadaşımız ol', diyor.",
+   "My father says 'Hello! Come and be our friend'."
+  ],
+  [
+   "Evimizde büyük pencereler var",
+   "There are big windows in our house"
+  ],
+  [
+   "Pencereden atlıyoruz",
+   "We jump from [the] window"
+  ],
+  [
+   "Ev almak mı istiyorsun?",
+   "Do you want to buy [a] house?"
+  ]
+ ],
+ "test": [
+  [
+   "Baban mutlu mu?",
+   "Is your father happy?",
+   ">"
+  ],
+  [
+   "'Şehirimize gel' diyoruz",
+   "We say 'Come to our city.'",
+   ">"
+  ],
+  [
+   "Arkadaşım doktor olmak istiyor.",
+   "My friend wants to become a doctor.",
+   ">"
+  ],
+  [
+   "Fakir evimi seviyorlar mı?",
+   "Do they love my poor house?",
+   ">"
+  ],
+  [
+   "İstanbul'dan mı geliyorsun?",
+   "Are you coming from Istanbul?",
+   ">"
+  ],
+  [
+   "Geldiğimde 'merhaba' diyorlar.",
+   "They say 'hello' when I arrive.",
+   ">"
+  ],
+  [
+   "Baban geldiğimizden mutlu mu?",
+   "Is your father happy since we arrived?",
+   ">"
+  ],
+  [
+   "Fakir olduğunu diyorlar.",
+   "They say that we are poor.",
+   ">"
+  ],
+  [
+   "Aldığın ev büyük mü?",
+   "Is the house you bought big?",
+   ">"
+  ],
+  [
+   "En mutlu olduğum şehir, Van.",
+   "The city I am happiest in is Van.",
+   ">"
+  ],
+  [
+   "Fakir olduğumuz halde mutluyuz.",
+   "We are happy even though we are poor.",
+   ">"
+  ]
+ ]
+}

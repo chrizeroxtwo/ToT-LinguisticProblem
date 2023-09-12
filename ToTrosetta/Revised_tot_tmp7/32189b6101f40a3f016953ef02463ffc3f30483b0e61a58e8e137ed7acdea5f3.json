@@ -1,0 +1,71 @@
+{
+     "source_language": "cupeño",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "pulinchemyax",
+               "We were (born/given birth to)."
+          ],
+          [
+               "pinehamanin",
+               "I embarrassed him."
+          ],
+          [
+               "empulinwen",
+               "You.PL used to bear children."
+          ],
+          [
+               "Chimichungpenqal",
+               "He used to kiss us."
+          ],
+          [
+               "ewel",
+               "You.SG grew."
+          ],
+          [
+               "Wixpemyax",
+               "They were stepped on."
+          ],
+          [
+               "pemhamawen",
+               "They used to feel ashamed."
+          ],
+          [
+               "piwixeminwen",
+               "You.PL used to step on him."
+          ],
+          [
+               "Nepuyqal",
+               "I used to dine"
+          ],
+          [
+               "Pichempuynin",
+               "We fed him"
+          ],
+          [
+               "chakweyax",
+               "You.SG were caught."
+          ],
+          [
+               "nichakwpeminwen",
+               "They used to catch me."
+          ],
+          [
+               "Imichakwnen",
+               "I caught you.PL."
+          ]
+     ],
+     "test": [
+          [
+               "chungpemyax",
+               "They used to kiss you.SG.",
+               ">"
+          ],
+          [
+               "Pinichakwpeminwen",
+               "We used to raise you.SG.",
+               "<"
+          ]
+     ]
+}

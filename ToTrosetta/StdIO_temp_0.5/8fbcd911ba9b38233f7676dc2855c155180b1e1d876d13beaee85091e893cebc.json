@@ -1,0 +1,112 @@
+{
+     "source_language": "inuktitut",
+     "target_language": "english",
+     "meta": "The letter r denotes a ‘Parisian’ r (pronounced far back in the mouth), and q stands for a k-like sound made in the same place.",
+     "train": [
+          [
+               "Qingmivit takujaatit.",
+               "Your dog saw you."
+          ],
+          [
+               "Inuuhuktuup iluaqhaiji qukiqtanga.",
+               "The boy shot the doctor."
+          ],
+          [
+               "Aanniqtutit.",
+               "You hurt yourself."
+          ],
+          [
+               "Iluaqhaijiup aarqijaatit.",
+               "The doctor cured you."
+          ],
+          [
+               "Qingmiq iputujait.",
+               "You speared the dog."
+          ],
+          [
+               "Angatkuq iluaqhaijimik aarqisijuq.",
+               "The shaman cured a doctor."
+          ],
+          [
+               "Nanuq qaijuq.",
+               "The polar bear came."
+          ],
+          [
+               "Iluaqhaijivit inuuhuktuit aarqijanga.",
+               "Your doctor cured your boy."
+          ],
+          [
+               "Angunahuktiup amaruq iputujanga.",
+               "The hunter speared the wolf."
+          ],
+          [
+               "Qingmiup ilinniaqtitsijiit aanniqtanga.",
+               "The dog hurt your teacher."
+          ],
+          [
+               "Ukiakhaqtutit.",
+               "You fell."
+          ],
+          [
+               "Angunahukti nanurmik qukiqsijuq.",
+               "The hunter shot a polar bear."
+          ]
+     ],
+     "test": [
+          [
+               "Angatkuq aanniqsijuq.",
+               "The shaman hurt you.",
+               "<"
+          ],
+          [
+               "Ilinniaqtitsijimik takujaq.",
+               "The teacher saw the boy.",
+               "<"
+          ],
+          [
+               "Amaruq ukiaksijuq.",
+               "Your wolf fell.",
+               "<"
+          ],
+          [
+               "Qingmik iluaqhaijait.",
+               "You shot a dog.",
+               "<"
+          ],
+          [
+               "Qingmiq aanniqsijuq ilinniaqtitsijanga.",
+               "Your dog hurt a teacher.",
+               "<"
+          ],
+          [
+               "Amaruup angatkuit takujanga.",
+               "The wolf saw the hunter.",
+               ">"
+          ],
+          [
+               "Nanuit inuuhukturmik aanniqsijuq.",
+               "The teacher hurt the polar bear.",
+               ">"
+          ],
+          [
+               "Angunahuktiit aarqijuq.",
+               "The hunters cured.",
+               ">"
+          ],
+          [
+               "Ilinniaqtitsiji qukiqtait.",
+               "The teachers shot.",
+               ">"
+          ],
+          [
+               "Qaijutit.",
+               "He/she came.",
+               ">"
+          ],
+          [
+               "Angunahuktimik aarqisijutit.",
+               "The hunters cured themselves.",
+               ">"
+          ]
+     ]
+}

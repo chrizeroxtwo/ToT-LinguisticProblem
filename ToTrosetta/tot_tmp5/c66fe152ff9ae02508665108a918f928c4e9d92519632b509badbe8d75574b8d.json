@@ -1,0 +1,199 @@
+{
+     "source_language": "tanna",
+     "target_language": "english",
+     "meta": "[ə] represents a sound like the last sound of ‘the' in ‘the book'.",
+     "train": [
+          [
+               "ralah neŋow",
+               "their canoe"
+          ],
+          [
+               "rahan nasumien",
+               "his garden"
+          ],
+          [
+               "raham nima",
+               "your house"
+          ],
+          [
+               "nepikə kahaw",
+               "rat's tail"
+          ],
+          [
+               "nəməm nəkawə",
+               "your.SG kava to drink"
+          ],
+          [
+               "netetamlaw",
+               "your.PL2 child"
+          ],
+          [
+               "niŋlaw nahwel",
+               "their.PL2 laplap pudding"
+          ],
+          [
+               "nenien raha enteni",
+               "Tanna’s speech"
+          ],
+          [
+               "ratah naŋhatien",
+               "our.PL2 language"
+          ],
+          [
+               "narmen",
+               "his image"
+          ],
+          [
+               "rahak nien",
+               "(my coconut/the coconut that I'm selling)"
+          ],
+          [
+               "rahak sot",
+               "my shirt"
+          ],
+          [
+               "narfu tem",
+               "man's belly"
+          ],
+          [
+               "neiwok mil",
+               "my two female cousins"
+          ],
+          [
+               "pukah asoli",
+               "big pig"
+          ],
+          [
+               "niŋək nien",
+               "(my coconut/the coconut that I'm eating)"
+          ],
+          [
+               "nelkak",
+               "my leg"
+          ],
+          [
+               "piam",
+               "your.SG [same sex] (sibling/brother/sister)"
+          ],
+          [
+               "nisiməteliŋəm",
+               "your.SG ear-wax"
+          ],
+          [
+               "narunien raha Tjotam",
+               "Jotham's knowledge"
+          ],
+          [
+               "niŋlah kuri",
+               "(their dog/the dog that they're eating)"
+          ],
+          [
+               "niŋən nawanien",
+               "his food"
+          ],
+          [
+               "nepiken",
+               "his food"
+          ],
+          [
+               "ratalaw jow",
+               "(their.PL2 turtle/the turtle that belongs to both of them)"
+          ],
+          [
+               "rahak jerehi",
+               "my lobster"
+          ],
+          [
+               "nisin",
+               "his excrement"
+          ],
+          [
+               "nentowi jow",
+               "turtle's neck"
+          ],
+          [
+               "nerow raha jow",
+               "the turtle's spear"
+          ],
+          [
+               "nelka pukah",
+               "pig's leg"
+          ],
+          [
+               "nakale naw mil",
+               "the two knives' edges"
+          ],
+          [
+               "nisi kunget",
+               "louse excrement"
+          ],
+          [
+               "nəmtalaw nəkawə, ian mwamnəm",
+               "as for the kava belonging to you two, go and drink it!"
+          ],
+          [
+               "ratamlaw kuri ije?",
+               "where is (your.PL2 dog/the dog that belongs to the two of you)?"
+          ],
+          [
+               "niŋək kuri u, ojakawan",
+               "my dog here, I'm going to eat [it]."
+          ],
+          [
+               "rahak nima takaku",
+               "my house is small"
+          ]
+     ],
+     "test": [
+          [
+               "nepikə nəŋow",
+               "rat's ear",
+               "<"
+          ],
+          [
+               "neiwok jow",
+               "(my two dogs/the two dogs that I own)",
+               "<"
+          ],
+          [
+               "rahan narfu",
+               "their bellies",
+               "<"
+          ],
+          [
+               "piam jow niŋən",
+               "a brother of those two [men]",
+               "<"
+          ],
+          [
+               "netetamlaw jow",
+               "our.2PL child",
+               "<"
+          ],
+          [
+               "Jawkelpi rahak nima",
+               "Jawkelpi's house",
+               "<"
+          ],
+          [
+               "asoli neŋow",
+               "the pig's canoe",
+               "<"
+          ],
+          [
+               "rahak nien naŋhatien",
+               "(my picture of you/the picture that I own that is an image of you)",
+               "<"
+          ],
+          [
+               "rahak nima ralah",
+               "the house belonging to you.2PL is big",
+               "<"
+          ],
+          [
+               "rahak jerehi ije?",
+               "where is (my lobster/the lobster that I am going to eat)?",
+               "<"
+          ]
+     ]
+}

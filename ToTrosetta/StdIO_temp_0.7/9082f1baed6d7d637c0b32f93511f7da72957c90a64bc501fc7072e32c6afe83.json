@@ -1,0 +1,107 @@
+{
+     "source_language": "warlpiri",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "Nganangkungku pakarnu?",
+               "Who hit you?"
+          ],
+          [
+               "Kulaju nganangku pakarnu.",
+               "Nobody hit me."
+          ],
+          [
+               "Ngananpa nyangu?",
+               "Who did you see?"
+          ],
+          [
+               "Kularna ngana nyangu.",
+               "I didn't see anyone."
+          ],
+          [
+               "Ngana wantija watiyangurlu?",
+               "Who fell from the tree?"
+          ],
+          [
+               "Nganamayi wantija.",
+               "I don't know who fell."
+          ],
+          [
+               "Kula ngana wantija.",
+               "No one fell."
+          ],
+          [
+               "Nyiyarlunpaju pakarnu?",
+               "What did you hit me with?"
+          ],
+          [
+               "Kularnangku nyiyarlu pakarnu.",
+               "I didn't hit you with anything."
+          ],
+          [
+               "Kularna ngana pakarnu.",
+               "I didn't hit anyone"
+          ],
+          [
+               "Nyarrparakurra yanu?",
+               "Where did he go to?"
+          ],
+          [
+               "Nyarrpararlanpa nyangu?",
+               "Where did you see him?"
+          ]
+     ],
+     "test": [
+          [
+               "Nyarrparakurramayi yanu.",
+               "I don't know where he went.",
+               ">"
+          ],
+          [
+               "Nyarrparakurra ngananyi.",
+               "He didn't go anywhere",
+               "<"
+          ],
+          [
+               "Nganangkungku pakarnu?",
+               "Who hit me?",
+               "<"
+          ],
+          [
+               "Nganangkumayingki pakarnu.",
+               "Who hit you?",
+               ">"
+          ],
+          [
+               "Nyarrpararlanpa nyangu?",
+               "Where did you see him?",
+               ">"
+          ],
+          [
+               "Nyiyanpa nyangu?",
+               "What did you see?",
+               ">"
+          ],
+          [
+               "Kularna ngana nyangu.",
+               "I didn't see anything.",
+               "<"
+          ],
+          [
+               "Nyarrparangurlunpa yanu?",
+               "Who fell from the tree?",
+               ">"
+          ],
+          [
+               "Nyarrparakurra ngana.",
+               "I didn't go from anywhere.",
+               "<"
+          ],
+          [
+               "Nganangkumayi nyiyarlu pakarnu.",
+               "I don't know what he hit me with.",
+               "<"
+          ]
+     ]
+}

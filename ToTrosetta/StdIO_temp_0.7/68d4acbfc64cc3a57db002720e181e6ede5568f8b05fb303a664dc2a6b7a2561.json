@@ -1,0 +1,93 @@
+{
+     "source_language": "kimbundu",
+     "target_language": "english",
+     "meta": "w=w in win. j=y in yum. ʃ and ʒ are consonants. The marks ˊ and ˋ indicate high and low tone, respectively.",
+     "train": [
+          [
+               "ŋgámónà dìhónʒò mùdìlóŋgà",
+               "I saw the banana on the plate."
+          ],
+          [
+               "àlóʒí ásáŋgá djálà mùdìkúŋgù",
+               "The sorcerers met the man in the cave."
+          ],
+          [
+               "ŋgádjà dìhónʒó djámì",
+               "I ate my banana."
+          ],
+          [
+               "mùdjúlù mwálà ʒìtéténbwà",
+               "There are stars in the sky."
+          ],
+          [
+               "dìkámbá djámí djáʃíkà nì djákínà",
+               "My friend sang and danced."
+          ],
+          [
+               "ŋgámónà dìkúŋgú djámí",
+               "Did I see my cave?"
+          ],
+          [
+               "ŋgámóná málà mùkìtándà",
+               "I saw the men in the square."
+          ],
+          [
+               "ŋgásáŋgá múlóʒí mwámì mùlwándà",
+               "I met my sorcerer in Luanda."
+          ],
+          [
+               "mùkìtándà mwálá djálá djámì",
+               "My (man/husband) is in the square."
+          ],
+          [
+               "mùdìkúŋgù ŋgámónà màkòlómbóló",
+               "Did I see the roosters in the cave?"
+          ],
+          [
+               "àtú ádjà dìhónʒò mùlwándá",
+               "Did the people eat the banana in Luanda?"
+          ]
+     ],
+     "test": [
+          [
+               "múlóʒí mwámónà ʒìtéténbwá",
+               "The man saw the stars.",
+               ">"
+          ],
+          [
+               "ʒìtéténbwá ʒjálà mùdjúlù",
+               "The stars met the sky.",
+               ">"
+          ],
+          [
+               "ŋgákínà",
+               "I danced.",
+               ">"
+          ],
+          [
+               "djálá djámónà màhónʒò mùlwándá",
+               "The friend ate the banana in Luanda.",
+               ">"
+          ],
+          [
+               "djámónà àmì?",
+               "Did I sing?",
+               "<"
+          ],
+          [
+               "ádjà djálá ásáŋgá múdjúlù mùkìtándà.",
+               "The person met the sorcerer and the friend in the square.",
+               "<"
+          ],
+          [
+               "mùdjúlù mwámónà mùdìkúŋgù.",
+               "My (man/husband) saw the cave.",
+               "<"
+          ],
+          [
+               "àsáŋgá djálà mùlwándà.",
+               "There are sorcerers in Luanda.",
+               "<"
+          ]
+     ]
+}

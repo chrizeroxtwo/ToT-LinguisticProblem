@@ -1,0 +1,85 @@
+{
+     "source_language": "pali",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "mahāmatto nisīdati",
+               "The minister sits down."
+          ],
+          [
+               "mahāmattaṃ upasaṃkamanti",
+               "They visit the minister."
+          ],
+          [
+               "samaṇo tathāgato hoti",
+               "The philosopher is enlightened."
+          ],
+          [
+               "samaṇe atthaṃ pucchant",
+               "They ask the philosophers the meaning."
+          ],
+          [
+               "upāsako pucchati",
+               "The disciple asks."
+          ],
+          [
+               "loko mahāmattassa",
+               "The minister’s world."
+          ],
+          [
+               "rājo",
+               "king"
+          ],
+          [
+               "devo",
+               "god"
+          ],
+          [
+               "gāmo",
+               "village"
+          ]
+     ],
+     "test": [
+          [
+               "mahāmatto samaṇe pucchati.",
+               "The minister asks the philosophers.",
+               "<"
+          ],
+          [
+               "samaṇo nisīdati.",
+               "The philosopher sits down.",
+               "<"
+          ],
+          [
+               "te nisīdanti.",
+               "They sit down.",
+               "<"
+          ],
+          [
+               "rājo nisīdati",
+               "The king sits down.",
+               ">"
+          ],
+          [
+               "rājo gāmassa devo hoti",
+               "The king is the god of the village.",
+               ">"
+          ],
+          [
+               "mahāmatto rājā pucchati.",
+               "The minister asks the kings.",
+               "<"
+          ],
+          [
+               "upāsakassa gāmo.",
+               "The lay disciple’s village",
+               "<"
+          ],
+          [
+               "lokaṃ atthaṃ devo hoti.",
+               "The meaning of the world is god.",
+               "<"
+          ]
+     ]
+}

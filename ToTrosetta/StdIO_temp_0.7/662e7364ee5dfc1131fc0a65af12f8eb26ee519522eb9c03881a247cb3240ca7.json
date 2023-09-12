@@ -1,0 +1,135 @@
+{
+     "source_language": "beja",
+     "target_language": "english",
+     "meta": "In the following examples, ’ stands for a glottal stop (the middle sound in the word “uh-oh”)",
+     "train": [
+          [
+               "ilaga diwiini",
+               "The male calf is sleeping."
+          ],
+          [
+               "doobaab rhitni",
+               "She sees a bridegroom."
+          ],
+          [
+               "gwibu",
+               "It is a mouse."
+          ],
+          [
+               "oomeek kiike",
+               "He is not the donkey."
+          ],
+          [
+               "tuukaam b’ata",
+               "The female camel lay down."
+          ],
+          [
+               "iragad winu",
+               "The leg is big."
+          ],
+          [
+               "tilaga wint kitte",
+               "The female calf is not big."
+          ],
+          [
+               "uutak tim’ari tamya",
+               "The man ate the food."
+          ],
+          [
+               "yoob tidbil",
+               "She collected an ox."
+          ],
+          [
+               "oofaar rhita",
+               "She saw the flower."
+          ],
+          [
+               "tidooba kadiwta",
+               "The bride is not sleeping."
+          ],
+          [
+               "uumeek b’iini",
+               "The donkey is lying down."
+          ],
+          [
+               "uuyaas ookaam danbiil",
+               "The dog is collecting the camel."
+          ],
+          [
+               "hataay tamaabu",
+               "He has eaten a horse."
+          ],
+          [
+               "ooyoo diblaab kiike",
+               "He has not collected the ox."
+          ],
+          [
+               "kil’oob kiidbil",
+               "He is not collecting a shell."
+          ],
+          [
+               "m’ariit tamtiniit kitte",
+               "She cannot eat food."
+          ],
+          [
+               "ootak kanriifu",
+               "He can meet the man."
+          ],
+          [
+               "yam kitdibil",
+               "She is not collecting water."
+          ]
+     ],
+     "test": [
+          [
+               "uukaam ootak rhaabu.",
+               "The man can see.",
+               ">"
+          ],
+          [
+               "faar katamya.",
+               "The flower is big.",
+               ">"
+          ],
+          [
+               "hataay tamtiniitu.",
+               "He cannot eat horses.",
+               ">"
+          ],
+          [
+               "uutak yam danbiilu.",
+               "He can collect water.",
+               ">"
+          ],
+          [
+               "meek rhitniit kitte.",
+               "They are not seeing the bridegroom.",
+               ">"
+          ],
+          [
+               "uukaam gwibu rhaabu.",
+               "A man meets the mouse.",
+               "<"
+          ],
+          [
+               "doobaab kadiwta.",
+               "The bridegroom is not eating.",
+               "<"
+          ],
+          [
+               "uumeek oofaar diblaabu.",
+               "The donkey has not eaten the flower.",
+               "<"
+          ],
+          [
+               "gwibu kil'oob kitte.",
+               "The mouse is not big.",
+               "<"
+          ],
+          [
+               "yoob b'ata tidbilu.",
+               "The female dog cannot collect oxen.",
+               "<"
+          ]
+     ]
+}

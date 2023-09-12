@@ -1,0 +1,66 @@
+{
+     "source_language": "malay",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "Gadis cantk itu tdak kaya.",
+               "The beautiful girl is not rich."
+          ],
+          [
+               "Penyanyi itu tdak bahagia.",
+               "The singer is not happy."
+          ],
+          [
+               "Kekayaan itu bukan dari bapanya.",
+               "The wealth is not from his father."
+          ],
+          [
+               "Wang bukan kebahagiaan.",
+               "Money is not happiness."
+          ],
+          [
+               "Kereta itu tdak datang dari medan itu.",
+               "The car is not coming from the field."
+          ],
+          [
+               "Manusia itu depan rumah itu bukan penyanyi.",
+               "The man in front of the house is not a singer."
+          ],
+          [
+               "Hadiah itu bukan untuk bapa itu.",
+               "The gift is not for the father."
+          ],
+          [
+               "Gadis bahagia itu tdak menangis.",
+               "The happy girl is not crying."
+          ]
+     ],
+     "test": [
+          [
+               "Kecantikan bukan hadiah.",
+               "Beauty is not a gift.",
+               "<"
+          ],
+          [
+               "Gadis kaya itu bukan penyanyi.",
+               "The rich girl is not a singer.",
+               "<"
+          ],
+          [
+               "Kekayaannya bukan untuk gadis itu.",
+               "His wealth is not for the girl.",
+               "<"
+          ],
+          [
+               "Lelaki itu tidak datang.",
+               "The man is not coming.",
+               "<"
+          ],
+          [
+               "Hadiah dari penyanyi itu tidak cantik.",
+               "The gift from the singer is not beautiful.",
+               "<"
+          ]
+     ]
+}

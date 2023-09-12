@@ -1,0 +1,64 @@
+{
+     "source_language": "swahili",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "Ninasema.",
+               "I speak."
+          ],
+          [
+               "Wunasema.",
+               "You speak."
+          ],
+          [
+               "Anasema.",
+               "She speaks."
+          ],
+          [
+               "Wanasema.",
+               "They speak."
+          ],
+          [
+               "Ninaona.",
+               "I see."
+          ],
+          [
+               "Niliona.",
+               "I saw."
+          ],
+          [
+               "Ninawaona.",
+               "I see them."
+          ],
+          [
+               "Niliwuona.",
+               "I saw you."
+          ],
+          [
+               "Ananiona.",
+               "She sees me."
+          ],
+          [
+               "Wutakaniona.",
+               "You will see me."
+          ]
+     ],
+     "test": [
+          [
+               "Aliwaona.",
+               "She saw them.",
+               "<"
+          ],
+          [
+               "Nitakuona.",
+               "I will see you.",
+               "<"
+          ],
+          [
+               "Aliniona.",
+               "She saw me.",
+               "<"
+          ]
+     ]
+}

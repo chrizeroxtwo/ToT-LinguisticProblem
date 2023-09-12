@@ -1,0 +1,117 @@
+{
+     "source_language": "georgian",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "ქ უთა ი ს ი",
+               "Kutaisi"
+          ],
+          [
+               "რუს თა ვ ი",
+               "Rustavi"
+          ],
+          [
+               "გ ორი",
+               "Gori"
+          ],
+          [
+               "თე ლა ვ ი",
+               "Telavi"
+          ],
+          [
+               "ს ოხ უმ ი",
+               "Sokhumi"
+          ],
+          [
+               "ს ა მ ე გ რე ლო",
+               "Samegrelo"
+          ],
+          [
+               "ი მ ე რე თი",
+               "Imereti"
+          ],
+          [
+               "ქ ა რთლი",
+               "Kartli"
+          ],
+          [
+               "ს ა ქ ა რთვ ე ლო",
+               "Sakartvelo"
+          ],
+          [
+               "ქ ა ხ ე თი",
+               "Kakheti"
+          ],
+          [
+               "კ ა რს ვ ა ღე ბ",
+               "I am opening the door."
+          ],
+          [
+               "ს ა ხ ლს ა შ ე ნ ე ბ",
+               "You.SG are building a house"
+          ],
+          [
+               "ე დუა რდ წ ე რი ლს ი ღე ბ ს",
+               "Eduard is receiving a letter."
+          ],
+          [
+               "ფა რდულს ვ ა შ ე ნ ე ბ თ",
+               "We are building a barn."
+          ],
+          [
+               "ს ა ჩ უქ ა რს ა ღე ბ თ",
+               "You.PL are opening a gift."
+          ],
+          [
+               "ა ნ დრი ა და მ ი ს ი დე და პ ა კ ე ტს ი ღე ბ ე ნ",
+               "Andria and his mother are receiving a package"
+          ],
+          [
+               "ხ ა ჭ ა პ ური გ ა ვ ა კ ე თე",
+               "I have made khachapuri."
+          ],
+          [
+               "კ ა რი შ ე ა კ ე თე",
+               "You.SG have repaired the door."
+          ],
+          [
+               "ა ნ დრი ა მ პ ოე მ ა და წ ე რა",
+               "Andria has written a poem."
+          ],
+          [
+               "ლე ვ ა ნ და მ ე ა კ ტომ ობ ი ლი შ ე ვ ა კ ე თე თ",
+               "Levan and I have repaired the car"
+          ],
+          [
+               "ს ა დი ლი გ ა ა კ ე თე თ",
+               "You.PL have made dinner."
+          ],
+          [
+               "ე დუა რდ და ე კ ა ტე რი ნ ე მ წ ე რი ლი და წ ე რე ს",
+               "Eduard and Ekaterine have written a letter."
+          ]
+     ],
+     "test": [
+          [
+               "წ ე რი ლს ა ღე ბ ე ნ",
+               "We are building a house.",
+               ">"
+          ],
+          [
+               "ა კ ტომ ობ ი ლი შ ე ა კ ე თე თ.",
+               "They have repaired the car.",
+               ">"
+          ],
+          [
+               "ა და მ ფა რდულს ა შ ე ნ ე ბ ს",
+               "You.SG and I are building a barn.",
+               ">"
+          ],
+          [
+               "პ ოე მ ა და ვ წ ე რე თ",
+               "We have written a letter.",
+               ">"
+          ]
+     ]
+}

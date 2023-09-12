@@ -1,0 +1,105 @@
+{
+     "source_language": "tshiluba",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "mukaji uvwa mumona muana.",
+               "The woman saw the child."
+          ],
+          [
+               "bakaji bavwa bamona muana.",
+               "The women saw the child"
+          ],
+          [
+               "muluma uvwa mumona bakaji.",
+               "The man saw the women."
+          ],
+          [
+               "muluma uvwa mumona bambuji.",
+               "The man saw the goats."
+          ],
+          [
+               "muluma udi mumona bambuji.",
+               "The man sees the goats."
+          ],
+          [
+               "banzolu bavwa bamona bantambwe.",
+               "The chickens saw the lions."
+          ],
+          [
+               "tubambwa tuvwa tumona baluma.",
+               "The small dogs saw the men."
+          ],
+          [
+               "mbwa uvwa mumona ntambwe.",
+               "The dog saw the lion."
+          ],
+          [
+               "ntambwe uvwa mumona tubanzolu.",
+               "The lion saw the small chickens."
+          ],
+          [
+               "kanzolu kavwa kamona tubantambwe.",
+               "The small chicken saw the small lions."
+          ],
+          [
+               "tubakulu tuvwa tumona mbwa.",
+               "The small adults saw the dog."
+          ],
+          [
+               "kamulunda kavwa kapeta kantambwe.",
+               "The small friend found the small lion."
+          ],
+          [
+               "cimuma",
+               "fruit"
+          ],
+          [
+               "bimuma",
+               "fruits"
+          ]
+     ],
+     "test": [
+          [
+               "mbwa",
+               "Dog",
+               "<"
+          ],
+          [
+               "mulume uvwa mumona muana.",
+               "The man saw the child.",
+               "<"
+          ],
+          [
+               "bakanzolu bavwa bamona tubambwa.",
+               "The chicken saw the dogs.",
+               "<"
+          ],
+          [
+               "tubamulunda tuvwa tumona ntambwe.",
+               "The adult found the goat.",
+               "<"
+          ],
+          [
+               "bantu bavwa bamona muana.",
+               "The small goats found the small child.",
+               "<"
+          ],
+          [
+               "balunda",
+               "the small friend",
+               ">"
+          ],
+          [
+               "cimuma civwa cimona ntambwe.",
+               "The lion saw the fruit.",
+               ">"
+          ],
+          [
+               "ntambwe uvwa mumona tubimuma.",
+               "The lion saw the small fruits.",
+               ">"
+          ]
+     ]
+}

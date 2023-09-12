@@ -1,0 +1,60 @@
+{
+     "source_language": "nahuatl",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "Nacatl itlacual in itzcuintli.",
+               "The dog eats the meat."
+          ],
+          [
+               "Xocolatl notlacual.",
+               "I eat the chocolate."
+          ],
+          [
+               "Niquitta in itzcuintli.",
+               "I see the dog."
+          ],
+          [
+               "Quitta in itzcuintli in calli.",
+               "The dog sees the house."
+          ],
+          [
+               "Nechixcuepa in axolotl1 ipan in atl.",
+               "The axolotl in the water confuses me."
+          ],
+          [
+               "Ical in oquichtli ipan in tepetl.",
+               "The man’s house is on top of the hill."
+          ],
+          [
+               "Quixcuepa in itzcuintli in cihuatl.",
+               "The dog confuses the woman."
+          ],
+          [
+               "Nipantlalia ipan in milli.",
+               "I ride on the field."
+          ],
+          [
+               "Nechitta notah.",
+               "My father sees me."
+          ]
+     ],
+     "test": [
+          [
+               "Axolotl tlacualli ipan nocal.",
+               "The axolotl eats the corn.",
+               ">"
+          ],
+          [
+               "Itzcuintli nopan.",
+               "The dog is in the house.",
+               ">"
+          ],
+          [
+               "Necchitta in axolotl in nocal.",
+               "My father’s father sees the axolotl.",
+               "<"
+          ]
+     ]
+}

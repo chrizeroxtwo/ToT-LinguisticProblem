@@ -1,0 +1,97 @@
+{
+     "source_language": "nung",
+     "target_language": "english",
+     "meta": " The marks above vowels indicate tone and the length of the vowel. đ and sl are consonants.",
+     "train": [
+          [
+               "Cáu ca vưhn nhahng kíhn.",
+               "I was about to continue to eat it."
+          ],
+          [
+               "Cáu cháhn slơng páy mi?",
+               "Do I truly want to go?"
+          ],
+          [
+               "Cáu mi slày kíhn.",
+               "I don’t have to eat it."
+          ],
+          [
+               "Cáu ngám hẻht pehn tê.",
+               "I did it like that just now."
+          ],
+          [
+               "Cáu tan đohc hảhn mưhng.",
+               "I only saw you."
+          ],
+          [
+               "Cáu vưhn nhahng bô sahm tảhng hẻht hơn.",
+               "I also continue to build the house alone."
+          ],
+          [
+               "Da kíhn!",
+               "Don’t eat it!"
+          ],
+          [
+               "Da khải hơn!",
+               "Don’t sell the house!"
+          ],
+          [
+               "Mưhn chơng ca cháhn fải khải",
+               "Then she truly was about to have to sell it."
+          ],
+          [
+               "Mưhn mi cháhn đày non.",
+               "She truly can’t sleep."
+          ],
+          [
+               "Mưhn náhc-thày chơng bô sahm kíhn.",
+               "Then she also just previously ate it."
+          ],
+          [
+               "Mưhng náhc-thày slơng tảhng páy.",
+               "You wanted to go alone just previously."
+          ]
+     ],
+     "test": [
+          [
+               "Cáu cháhn đày non.",
+               "I can't sleep.",
+               ">"
+          ],
+          [
+               "Da páy non!",
+               "Don't go to sleep!",
+               ">"
+          ],
+          [
+               "Mưhn bô sạhm mi slơng hẻht hơn mi?",
+               "Don't I have to eat it alone like that just now?",
+               ">"
+          ],
+          [
+               "Mưhn ngám bô sạhm páy hơn.",
+               "Mưhn ngám bô sạhm páy hơn đày đến.",
+               ">"
+          ],
+          [
+               "Cáu mi slơng kíhn bô sạhm hẻht hơn đến đày.",
+               "I wasn’t about to eat it just previously.",
+               "<"
+          ],
+          [
+               "Cáu mi slơng kíhn bô sạhm páy hơn đến đày.",
+               "She didn’t have to eat it alone like that just now.",
+               "<"
+          ],
+          [
+               "Sahm hảhn mi tan đohc.",
+               "The house truly can’t eat you.",
+               "<"
+          ],
+          [
+               "Cháhn mưhn slơng tảhng páy hơn đến?",
+               "Then were you also about to go just previously?",
+               "<"
+          ]
+     ]
+}

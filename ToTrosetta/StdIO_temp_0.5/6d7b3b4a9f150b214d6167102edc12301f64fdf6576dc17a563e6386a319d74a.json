@@ -1,0 +1,65 @@
+{
+     "source_language": "yoruba",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "érin diń lóguń",
+               "sixteen"
+          ],
+          [
+               "étà diń lógbòn",
+               "twenty seven"
+          ],
+          [
+               "logójí ólé étà",
+               "forty three"
+          ],
+          [
+               "kon diń ọgóòrun",
+               "ninety nine"
+          ],
+          [
+               "árùń diń logójí",
+               "thirty five"
+          ],
+          [
+               "ọgóòrun ólé árrùń",
+               "one hundred and five"
+          ],
+          [
+               "goóòta ólé ejí",
+               "sixty two"
+          ],
+          [
+               "lóguń ólé kon",
+               "twenty one"
+          ],
+          [
+               "érin diń òrìn",
+               "seventy six"
+          ]
+     ],
+     "test": [
+          [
+               "èjìríń",
+               "seventeen",
+               "<"
+          ],
+          [
+               "ogójì",
+               "thirty four",
+               "<"
+          ],
+          [
+               "àrùń diń wàríń",
+               "fifty eight",
+               "<"
+          ],
+          [
+               "ọgóòrun ólé òkàn",
+               "one hundred and one",
+               "<"
+          ]
+     ]
+}

@@ -1,0 +1,126 @@
+{
+     "source_language": "jaqaru",
+     "target_language": "english",
+     "meta": "nh = ng in hang. ch, cx, q, sh, tx are consonants. The mark ” indicates aspiration.",
+     "train": [
+          [
+               "aq”ipsa",
+               "the cave too"
+          ],
+          [
+               "aq”na",
+               "in the cave"
+          ],
+          [
+               "chushp”a",
+               "his corner"
+          ],
+          [
+               "chushuntxi",
+               "is it in the corner?"
+          ],
+          [
+               "ishinhna",
+               "in my bed"
+          ],
+          [
+               "ishma",
+               "your bed"
+          ],
+          [
+               "p”ak”u",
+               "the pot"
+          ],
+          [
+               "p”ak”unhpsa",
+               "my pot too"
+          ],
+          [
+               "qaqat”a",
+               "from the cliff"
+          ],
+          [
+               "qucxap”a",
+               "through the lake"
+          ],
+          [
+               "qucxst”psa",
+               "from our.PL2 lake too"
+          ],
+          [
+               "marka",
+               "the town"
+          ],
+          [
+               "markp”t”a",
+               "from his town"
+          ],
+          [
+               "markstxi",
+               "is it our.PL2 town?"
+          ],
+          [
+               "utamt”a",
+               "from your house"
+          ],
+          [
+               "utnha",
+               "my house"
+          ],
+          [
+               "yaputxi",
+               "is it the field?"
+          ],
+          [
+               "yapsanpsa",
+               "in our.PL2 field too"
+          ]
+     ],
+     "test": [
+          [
+               "utnhantxi",
+               "is it your house?",
+               ">"
+          ],
+          [
+               "yapp”psa",
+               "the field too",
+               ">"
+          ],
+          [
+               "yapup”psa",
+               "in the field too",
+               ">"
+          ],
+          [
+               "qucxst”a",
+               "our.PL2 cliff",
+               "<"
+          ],
+          [
+               "chushp”a",
+               "in your corner",
+               "<"
+          ],
+          [
+               "chushp”anpsa",
+               "in your corner too",
+               "<"
+          ],
+          [
+               "chushp”antxi",
+               "from your corner too",
+               "<"
+          ],
+          [
+               "aq”na",
+               "is it from the cave?",
+               "<"
+          ],
+          [
+               "utamt”a",
+               "is it the house?",
+               "<"
+          ]
+     ]
+}

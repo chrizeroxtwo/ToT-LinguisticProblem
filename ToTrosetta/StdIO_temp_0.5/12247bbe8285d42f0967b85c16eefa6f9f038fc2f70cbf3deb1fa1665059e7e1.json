@@ -1,0 +1,200 @@
+{
+     "source_language": "fula",
+     "target_language": "english",
+     "meta": "s and c are palatal, pronounced similarly to s and ch in sure and church respectively; ɲ and ŋ are pronounced like ni and ng in onion and sing; mb, nd, ɲj, and ŋg are prenasalised forms of b, d, j, and g; ɓ and ɗ are preglottalised, implosive b and d; r is an alveolar flap, similar to tt in American better; ʔ is the glottal stop, as in uh-oh.",
+     "train": [
+          [
+               "wii",
+               "say"
+          ],
+          [
+               "rull",
+               "get cloudy"
+          ],
+          [
+               "muyn",
+               "suckle"
+          ],
+          [
+               "fof",
+               "breathe"
+          ],
+          [
+               "socc",
+               "scrub"
+          ],
+          [
+               "fiide",
+               "to strike"
+          ],
+          [
+               "meŋ poftaa",
+               "we are not relaxing"
+          ],
+          [
+               "yaa",
+               "go!"
+          ],
+          [
+               "roonditde",
+               "to carry a load back"
+          ],
+          [
+               "ʔo wayri jaŋgude",
+               "(he/she) has not learnt in a long time"
+          ],
+          [
+               "ʔon ŋgarti",
+               "you.PL have returned"
+          ],
+          [
+               "ɓeɗo ŋgara",
+               "they are coming"
+          ],
+          [
+               "meŋ tininaano",
+               "we had made to understand"
+          ],
+          [
+               "mi ʔayni",
+               "I have herded cattle"
+          ],
+          [
+               "ʔa fuɗɗi yaade",
+               "you.SG have started to go"
+          ],
+          [
+               "ʔeɗen puɗɗa yoɓtude",
+               "we.PL2 are starting to pay back"
+          ],
+          [
+               "ʔaɗa rema",
+               "you.SG are cultivating"
+          ],
+          [
+               "ɓe ŋgudditaani",
+               "they have not opened"
+          ],
+          [
+               "ʔomo ʔudda",
+               "(he/she) is closing"
+          ],
+          [
+               "ʔen ɲjiyi",
+               "we.PL2 have seen"
+          ],
+          [
+               "jaɓɓude",
+               "to welcome"
+          ],
+          [
+               "miɗen ndoonda",
+               "we are carrying a load"
+          ],
+          [
+               "miɗo wiya",
+               "I am saying"
+          ],
+          [
+               "ʔon mbakilaa",
+               "you.PL aren't trying"
+          ],
+          [
+               "ʔen ŋgaynitaani",
+               "we.PL2 have not herded back cattle"
+          ],
+          [
+               "meŋ ndemtaani",
+               "we have not recultivated"
+          ],
+          [
+               "soccu",
+               "scrub!"
+          ],
+          [
+               "muynin",
+               "give the breast!"
+          ],
+          [
+               "mi yahaani",
+               "I have not gone"
+          ],
+          [
+               "wii",
+               "say"
+          ],
+          [
+               "rull",
+               "get cloudy"
+          ],
+          [
+               "muyn",
+               "suckle"
+          ],
+          [
+               "fof",
+               "breathe"
+          ],
+          [
+               "socc",
+               "scrub"
+          ]
+     ],
+     "test": [
+          [
+               "ɓe ŋgaynaano",
+               "they have not herded back cattle",
+               ">"
+          ],
+          [
+               "ʔoɗon ɲjaha",
+               "you.PL2 have not seen",
+               ">"
+          ],
+          [
+               "mi tini",
+               "I have understood",
+               ">"
+          ],
+          [
+               "yii",
+               "say",
+               ">"
+          ],
+          [
+               "ʔo wayri jaŋginde",
+               "you.PL have not learnt in a long time",
+               ">"
+          ],
+          [
+               "rull ɓeɗe",
+               "it has started to get cloudy",
+               "<"
+          ],
+          [
+               "miɗo wiyi",
+               "I have said farewell",
+               "<"
+          ],
+          [
+               "ʔen ɲjiyde",
+               "we.PL2 are saying",
+               "<"
+          ],
+          [
+               "ʔa fiide jaade",
+               "you.SG are not striking",
+               "<"
+          ],
+          [
+               "meŋ mbakilaa jaŋgude",
+               "we have not tried again in a long time",
+               "<"
+          ],
+          [
+               "soccu ŋgudditaani",
+               "they are scrubbing again",
+               "<"
+          ]
+     ]
+}

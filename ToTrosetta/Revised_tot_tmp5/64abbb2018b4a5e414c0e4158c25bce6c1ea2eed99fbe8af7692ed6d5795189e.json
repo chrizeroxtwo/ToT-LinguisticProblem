@@ -1,0 +1,91 @@
+{
+     "source_language": "bulgarian",
+     "target_language": "english",
+     "meta": "As for pronunciation, č is like the “ch” in “chest”, š is like the “sh” in “shoe”, c sounds like “ts”, and ĕ is a short vowel like the “a” in “patrol”.",
+     "train": [
+          [
+               "dvama učenici",
+               "two students"
+          ],
+          [
+               "devet garderoba",
+               "nine wardrobes"
+          ],
+          [
+               "mnogo učenici",
+               "many students"
+          ],
+          [
+               "edin sandĕk",
+               "one chest"
+          ],
+          [
+               "tri sandĕka",
+               "three chests"
+          ],
+          [
+               "mnogo sandĕci",
+               "many chests"
+          ],
+          [
+               "devetima balĕci",
+               "nine morons"
+          ],
+          [
+               "mnogo garderobi",
+               "many wardrobes"
+          ],
+          [
+               "šestima programisti",
+               "six programmers"
+          ],
+          [
+               "četiri kapaka",
+               "four covers"
+          ],
+          [
+               "mnogo programisti",
+               "many programmers"
+          ],
+          [
+               "trima čistači",
+               "three cleaners"
+          ],
+          [
+               "edin balĕk",
+               "one moron"
+          ]
+     ],
+     "test": [
+          [
+               "šest kapaka",
+               "six covers",
+               "<"
+          ],
+          [
+               "mnogo balĕci",
+               "many morons",
+               "<"
+          ],
+          [
+               "četiri čistači",
+               "four cleaners",
+               "<"
+          ],
+          [
+               "mnogo kapaka",
+               "many covers",
+               "<"
+          ],
+          [
+               "edin učenik",
+               "one student",
+               "<"
+          ],
+          [
+               "dvama sandĕci",
+               "two chests",
+               "<"
+          ]
+     ]
+}

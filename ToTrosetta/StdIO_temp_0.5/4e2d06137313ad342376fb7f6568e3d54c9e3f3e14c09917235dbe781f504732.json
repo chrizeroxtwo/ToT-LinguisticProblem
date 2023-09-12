@@ -1,0 +1,87 @@
+{
+     "source_language": "swahili",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "Mtu ana watoto wazuri.",
+               "The man has good children."
+          ],
+          [
+               "Mto mrefu una visiwa vikubwa.",
+               "The long river has large islands."
+          ],
+          [
+               "Wafalme wana vijiko vidogo.",
+               "The kings have small spoons."
+          ],
+          [
+               "Watoto wabaya wana miwavuli midogo.",
+               "The bad children have small umbrellas."
+          ],
+          [
+               "Kijiko kikubwa kinatosha.",
+               "A large spoon is enough."
+          ],
+          [
+               "Mwavuli una mfuko mdogo.",
+               "The umbrella has a small bag."
+          ],
+          [
+               "Kisiwa kikubwa kina mfalme mbaya.",
+               "The large island has a bad king."
+          ],
+          [
+               "Watu wana mifuko mikubwa.",
+               "The men have large bags."
+          ],
+          [
+               "Viazi vibaya vinatosha.",
+               "The bad potatoes are enough."
+          ],
+          [
+               "Mtoto ana mwavuli mkubwa.",
+               "The child has a large umbrella."
+          ],
+          [
+               "Mito mizuri mirefu inatosha.",
+               "Good long rivers are enough"
+          ],
+          [
+               "Mtoto mdogo ana kiazi kizuri.",
+               "A small child has a good potato."
+          ]
+     ],
+     "test": [
+          [
+               "Watoto wadogo wana vijiko vizuri.",
+               "The small children have good spoons.",
+               "<"
+          ],
+          [
+               "Mwavuli mrefu unatosha.",
+               "A long umbrella is enough.",
+               "<"
+          ],
+          [
+               "Kiazi kibaya kina mfuko mzuri.",
+               "A bad potato has a good bag.",
+               "<"
+          ],
+          [
+               "Wafalme wazuri wanatosha.",
+               "Good kings are enough.",
+               "<"
+          ],
+          [
+               "Kisiwa kirefu kina mito mibaya.",
+               "The long island has bad rivers.",
+               "<"
+          ],
+          [
+               "Vijiko vina mifuko mirefu.",
+               "The spoons have long bags.",
+               "<"
+          ]
+     ]
+}

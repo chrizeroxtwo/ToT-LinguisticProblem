@@ -1,0 +1,83 @@
+{
+     "source_language": "esperanto",
+     "target_language": "english",
+     "meta": "The letters ‘ĝ’ and ‘ĉ’ are pronounced like ‘g’ and ‘ch’ in the words ‘gem’ and ‘chase’",
+     "train": [
+          [
+               "La kapro manĝintas.",
+               "The goat has eaten."
+          ],
+          [
+               "La hundo ĉasis la katon.",
+               "The dog chased the cat."
+          ],
+          [
+               "La kapro manĝis.",
+               "The goat ate."
+          ],
+          [
+               "La kapro manĝitos.",
+               "The goat will have been eaten."
+          ],
+          [
+               "La kapron ĉasintis la hundo.",
+               "The dog had chased the goat."
+          ],
+          [
+               "La kapro manĝas.",
+               "The goat eats."
+          ],
+          [
+               "La kapro manĝotas.",
+               "The goat is going to be eaten."
+          ],
+          [
+               "La kato manĝantas.",
+               "The cat is eating."
+          ],
+          [
+               "La kapro manĝontis.",
+               "The goat was going to eat."
+          ],
+          [
+               "La kapro manĝintos.",
+               "The goat will have eaten."
+          ],
+          [
+               "La kato ĉasas la hundon.",
+               "The cat chases the dog."
+          ]
+     ],
+     "test": [
+          [
+               "La kapro manĝontos.",
+               "The goat will eat.",
+               ">"
+          ],
+          [
+               "La kapro manĝitas.",
+               "The goat is eating.",
+               ">"
+          ],
+          [
+               "La kato ĉasitis.",
+               "The cat chased.",
+               ">"
+          ],
+          [
+               "La kapro manĝis.",
+               "The goat was eating.",
+               "<"
+          ],
+          [
+               "La hundo estas manĝata.",
+               "The dog is being eaten.",
+               "<"
+          ],
+          [
+               "La hundo ĉasos la kapon.",
+               "The dog will chase the goat.",
+               "<"
+          ]
+     ]
+}

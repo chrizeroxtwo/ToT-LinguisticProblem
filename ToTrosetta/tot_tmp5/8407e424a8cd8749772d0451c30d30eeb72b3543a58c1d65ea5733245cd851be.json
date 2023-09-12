@@ -1,0 +1,105 @@
+{
+     "source_language": "kiswahili",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "Atacheza",
+               "He will play"
+          ],
+          [
+               "Mlipika",
+               "You.PL cooked"
+          ],
+          [
+               "Nilicheza",
+               "I played"
+          ],
+          [
+               "Ninakula",
+               "I eat"
+          ],
+          [
+               "Tulifahamu",
+               "We understood"
+          ],
+          [
+               "Unacheza",
+               "You play"
+          ],
+          [
+               "Wanafahamu",
+               "They understand"
+          ],
+          [
+               "Hamkupika",
+               "You.PL did not cook"
+          ],
+          [
+               "Hatacheza",
+               "He will not play"
+          ],
+          [
+               "Hatukufahamu",
+               "We did not understand"
+          ],
+          [
+               "Hawafahamu",
+               "They do not understand"
+          ],
+          [
+               "Huchezi",
+               "You do not play"
+          ],
+          [
+               "Sikucheza",
+               "I did not play"
+          ],
+          [
+               "Sili",
+               "I do not eat"
+          ]
+     ],
+     "test": [
+          [
+               "Wanatembelea",
+               "You visit",
+               "<"
+          ],
+          [
+               "Wewe haukutembelea",
+               "You do not visit",
+               "<"
+          ],
+          [
+               "Hukutembelea",
+               "You did not visit",
+               "<"
+          ],
+          [
+               "Utaenda",
+               "You will visit",
+               "<"
+          ],
+          [
+               "Anakunywa",
+               "(He/She) drinks",
+               "<"
+          ],
+          [
+               "Hainywi.",
+               "(He/She) does not drink",
+               "<"
+          ],
+          [
+               "Alipika",
+               "(He/She) drank",
+               "<"
+          ],
+          [
+               "Hatainywa.",
+               "(He/She) will not drink",
+               "<"
+          ]
+     ]
+}

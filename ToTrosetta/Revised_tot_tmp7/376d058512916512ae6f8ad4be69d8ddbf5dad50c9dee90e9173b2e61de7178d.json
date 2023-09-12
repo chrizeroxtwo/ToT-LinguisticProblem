@@ -1,0 +1,57 @@
+{
+     "source_language": "polish",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "Alicja zobaczyła sąsiada.",
+               "Alice saw the neighbour."
+          ],
+          [
+               "Kot zjadł kiełbasę.",
+               "The cat ate the sausage."
+          ],
+          [
+               "Piotr kupił kiełbasę.",
+               "Peter bought the sausage."
+          ],
+          [
+               "Mysz zobaczyła sąsiada.",
+               "The mouse saw the neighbour."
+          ],
+          [
+               "Kot zobaczył mysz.",
+               "The cat saw the mouse."
+          ],
+          [
+               "Alicja kupiła ser.",
+               "Alice bought the cheese."
+          ],
+          [
+               "Policja aresztowała sąsiada.",
+               "The police arrested the neighbour."
+          ]
+     ],
+     "test": [
+          [
+               "Piotr zobaczył sąsiada.",
+               "Peter saw the neighbour.",
+               "<"
+          ],
+          [
+               "Mysz zjada ser.",
+               "The mouse ate the cheese.",
+               "<"
+          ],
+          [
+               "Policja kupiła kiełbasę.",
+               "The police bought the sausage.",
+               "<"
+          ],
+          [
+               "Piotr zobaczył policję.",
+               "Peter saw the police.",
+               "<"
+          ]
+     ]
+}

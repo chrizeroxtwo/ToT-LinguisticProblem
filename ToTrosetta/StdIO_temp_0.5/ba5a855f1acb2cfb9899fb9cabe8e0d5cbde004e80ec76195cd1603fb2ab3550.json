@@ -1,0 +1,60 @@
+{
+     "source_language": "lopit",
+     "target_language": "english",
+     "meta": "In Lopit, when a word-initial e comes before an o or a u, the e in instead pronounced as an o.",
+     "train": [
+          [
+               "eitiyena Iliwa aina",
+               "Iliwa teaches today."
+          ],
+          [
+               "eremo Lohidong waraga ho iguarit",
+               "Lohidong spears the paper with the pen."
+          ],
+          [
+               "oromo haboroni de mana",
+               "The big man digs in the field."
+          ],
+          [
+               "oboro habarani",
+               "The cattle owner is big."
+          ],
+          [
+               "eibongo haidoloni ho haromoni de lecari",
+               "The singer meets with the field hand at the danceball."
+          ],
+          [
+               "eifuo Ihidong de leitiyenari",
+               "Ihidong cooks at the school."
+          ],
+          [
+               "efer hingohu de halu na haji",
+               "The dog lies at the back of the house."
+          ],
+          [
+               "eiyoma haromok de iferit",
+               "The field hands rest on the mat."
+          ],
+          [
+               "eramita wurre ho hingohu",
+               "The children play with the dog."
+          ]
+     ],
+     "test": [
+          [
+               "oromo haboroni de leitiyenari ho italit",
+               "The big men dance with the shovel in the kitchen.",
+               "<"
+          ],
+          [
+               "eitiyena Iliwa haidoloni",
+               "The teacher sings.",
+               "<"
+          ],
+          [
+               "oboro habarani ho hajarit",
+               "The cattle owners draw in the playground.",
+               "<"
+          ]
+     ]
+}

@@ -1,0 +1,147 @@
+{
+     "source_language": "choctaw",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "Baliililitok.",
+               "I ran."
+          ],
+          [
+               "Baliilitok.",
+               "(He/She) ran."
+          ],
+          [
+               "Baliililih.",
+               "I’ve run."
+          ],
+          [
+               "Johnat niyah.",
+               "John is fat."
+          ],
+          [
+               "Pamat kayyah.",
+               "Pam is pregnant."
+          ],
+          [
+               "Baliilih.",
+               "(He/She) has run."
+          ],
+          [
+               "Chikayyah.",
+               "You’re pregnant."
+          ],
+          [
+               "Saniyah.",
+               "I’m fat."
+          ],
+          [
+               "Hattakat chaahah.",
+               "The man is tall."
+          ],
+          [
+               "Hattakat taloowatok.",
+               "The man sang."
+          ],
+          [
+               "Hattak chaahah piisalitok.",
+               "I saw the tall man."
+          ],
+          [
+               "Hattak chaahah ishpiisatok.",
+               "You saw the tall man."
+          ],
+          [
+               "Sayyit sabashah.",
+               "My leg is cut."
+          ],
+          [
+               "Sapiisatok.",
+               "(He/She) saw me."
+          ],
+          [
+               "Issapiisatok.",
+               "You saw me."
+          ],
+          [
+               "Hattak anolitok.",
+               "(He/She) told the man."
+          ],
+          [
+               "Ofit sayyi sakopolitok.",
+               "The dog bit my leg."
+          ],
+          [
+               "Ofit amofi kopolitok.",
+               "The dog bit my dog."
+          ],
+          [
+               "Chimanolilitok.",
+               "I told you."
+          ],
+          [
+               "Amanolitok.",
+               "(He/She) told me."
+          ],
+          [
+               "Sashkit hattak piisatok.",
+               "My mother saw the man."
+          ],
+          [
+               "Sashkit chibaliilitok.",
+               "Your motherran."
+          ]
+     ],
+     "test": [
+          [
+               "Johnat ishpiisatok.",
+               "(He/She) saw John.",
+               "<"
+          ],
+          [
+               "Baliilitok.",
+               "I sang.",
+               "<"
+          ],
+          [
+               "Chikaylitok.",
+               "You’re singing.",
+               "<"
+          ],
+          [
+               "Pamat chiyyah.",
+               "I’m pregnant.",
+               "<"
+          ],
+          [
+               "Johnat hattak taloowatok.",
+               "(He/She) saw the fat man.",
+               "<"
+          ],
+          [
+               "Chiyyit chibashah.",
+               "Your leg is cut.",
+               ">"
+          ],
+          [
+               "Chiyyit bashah.",
+               "Your leg is cut.",
+               ">"
+          ],
+          [
+               "Amofi ishpiisatok.",
+               "I saw the dog.",
+               ">"
+          ],
+          [
+               "Shki ampiisalitok.",
+               "You saw the woman.",
+               ">"
+          ],
+          [
+               "Amofit chiyyi chikopolitok.",
+               "You bit my dog.",
+               ">"
+          ]
+     ]
+}

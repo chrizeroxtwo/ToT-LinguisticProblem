@@ -1,0 +1,100 @@
+{
+     "source_language": "danish",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "fire",
+               "four"
+          ],
+          [
+               "toogtyve",
+               "twenty two"
+          ],
+          [
+               "ni",
+               "nine"
+          ],
+          [
+               "enogfirs",
+               "eighty one"
+          ],
+          [
+               "fem",
+               "five"
+          ],
+          [
+               "nioghalvfjerds",
+               "seventy nine"
+          ],
+          [
+               "seksogtres",
+               "sixty six"
+          ],
+          [
+               "syvoghalvtreds",
+               "fifty seven"
+          ],
+          [
+               "tre",
+               "three"
+          ]
+     ],
+     "test": [
+          [
+               "seks",
+               "Sex",
+               ">"
+          ],
+          [
+               "nioghalvtreds",
+               "seventy eight",
+               ">"
+          ],
+          [
+               "treogtyve",
+               "thirty",
+               ">"
+          ],
+          [
+               "femoghalvfems",
+               "fifty four",
+               ">"
+          ],
+          [
+               "toogtres",
+               "sixty three",
+               ">"
+          ],
+          [
+               "halvfjerds",
+               "seventy",
+               ">"
+          ],
+          [
+               "Seks",
+               "seven",
+               "<"
+          ],
+          [
+               "fir og halvfjerds",
+               "fifty four",
+               "<"
+          ],
+          [
+               "toogtyve",
+               "twenty one",
+               "<"
+          ],
+          [
+               "femogfirs",
+               "eighty five",
+               "<"
+          ],
+          [
+               "nioghalvfems og tyve",
+               "ninety nine",
+               "<"
+          ]
+     ]
+}

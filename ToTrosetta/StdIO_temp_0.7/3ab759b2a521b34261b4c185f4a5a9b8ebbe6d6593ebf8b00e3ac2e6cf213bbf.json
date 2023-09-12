@@ -1,0 +1,64 @@
+{
+     "source_language": "welsh",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "Mae e’n siarad Cymraeg.",
+               "He speaks Welsh."
+          ],
+          [
+               "Oes cyfrifiadur gyda ti?",
+               "Do you have a computer?"
+          ],
+          [
+               "Mae hi wedi clywed yr araith.",
+               "She has heard the speech."
+          ],
+          [
+               "Dw i’n dysgu Sbaeneg",
+               "I am learning Spanish."
+          ],
+          [
+               "Mae car newydd gyda hi.",
+               "She has a new car."
+          ],
+          [
+               "Wyt ti wedi clywed y newiddion?",
+               "Have you heard the news?"
+          ],
+          [
+               "Mae Owain ar siarad.",
+               "Owain is about to speak."
+          ],
+          [
+               "Wyt ti’n astudio ffiseg.",
+               "You are studying physics."
+          ],
+          [
+               "Yw e’n bywta caws?",
+               "Is he eating cheese?"
+          ],
+          [
+               "Dw i heb siarad.",
+               "I haven’t spoken."
+          ]
+     ],
+     "test": [
+          [
+               "Wyt ti'n dysgu Cymraeg?",
+               "Are you learning Welsh?",
+               "<"
+          ],
+          [
+               "Nid yw e wedi astudio Sbaeneg.",
+               "He has not studied Spanish.",
+               "<"
+          ],
+          [
+               "Mae hi'n gwrando ar y newyddion.",
+               "She is listening to the news.",
+               "<"
+          ]
+     ]
+}

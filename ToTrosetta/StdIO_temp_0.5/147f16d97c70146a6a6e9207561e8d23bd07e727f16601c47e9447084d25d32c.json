@@ -1,0 +1,124 @@
+{
+     "source_language": "irish",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "garra amháin",
+               "one garden"
+          ],
+          [
+               "gasúr déag",
+               "eleven boys"
+          ],
+          [
+               "ocht mballa is dhá fichid",
+               "forty eight walls"
+          ],
+          [
+               "dhá gharra déag is ceithre fichid",
+               "ninety two gardens"
+          ],
+          [
+               "trí bhád",
+               "three boats"
+          ],
+          [
+               "seacht ndoras déag",
+               "seventeen doors"
+          ],
+          [
+               "seacht mbád déag is dhá fichid",
+               "fifty seven boats"
+          ],
+          [
+               "naoi nduine déag is fiche",
+               "thirty nine people"
+          ],
+          [
+               "ceithre fichid doras",
+               "eighty doors"
+          ],
+          [
+               "cúig bhalla",
+               "five walls"
+          ],
+          [
+               "sé ghasúr is trí fichid",
+               "sixty six boys"
+          ],
+          [
+               "deich mbád",
+               "ten boats"
+          ],
+          [
+               "sé dhuine",
+               "six people"
+          ],
+          [
+               "trí dhoras is dhá fichid",
+               "forty three doors"
+          ],
+          [
+               "garra is ceithre fichid",
+               "eighty one gardens"
+          ]
+     ],
+     "test": [
+          [
+               "naoi mbád déag is ceithre fichid",
+               "nineteen boats and eighty four",
+               ">"
+          ],
+          [
+               "sé dhuine déag",
+               "sixteen people",
+               ">"
+          ],
+          [
+               "naoi nduine",
+               "nine people",
+               ">"
+          ],
+          [
+               "fiche gasúr",
+               "twenty boys",
+               ">"
+          ],
+          [
+               "garra déag is fiche",
+               "twenty one gardens",
+               ">"
+          ],
+          [
+               "beirt ghasúr",
+               "two boys",
+               "<"
+          ],
+          [
+               "tríocha ocht mballa",
+               "thirty eight walls",
+               "<"
+          ],
+          [
+               "ceathracha balla",
+               "fourteen walls",
+               "<"
+          ],
+          [
+               "seachtó a haon doras",
+               "seventy one doors",
+               "<"
+          ],
+          [
+               "fiche a haon bád",
+               "twenty one boats",
+               "<"
+          ],
+          [
+               "nócha duine",
+               "ninety people",
+               "<"
+          ]
+     ]
+}

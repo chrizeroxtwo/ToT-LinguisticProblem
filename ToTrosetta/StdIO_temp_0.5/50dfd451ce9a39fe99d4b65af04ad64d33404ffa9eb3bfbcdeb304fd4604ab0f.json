@@ -1,0 +1,92 @@
+{
+     "source_language": "teop",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "Ean paa tasu anaa.",
+               "You.SG struck me."
+          ],
+          [
+               "Eove paa ani bona iana.",
+               "He ate the fish."
+          ],
+          [
+               "Enam paa tasu a beiko.",
+               "We struck the child."
+          ],
+          [
+               "A otei paa tara bona kae.",
+               "The man saw the bag."
+          ],
+          [
+               "A visoasi paa asun bona.",
+               "The boy killed him."
+          ],
+          [
+               "Enaa paa tara a taba’ani.",
+               "I saw the food."
+          ],
+          [
+               "Eam paa baitono e.",
+               "You.PL heard him."
+          ],
+          [
+               "Enaa paa hee a otei bona overe.",
+               "I gave the coconut to the man."
+          ],
+          [
+               "A moon paa hee ameam bona taba’ani.",
+               "The woman gave the food to you.PL."
+          ],
+          [
+               "Enaa paa tasu vuan a vasu.",
+               "I struck you.SG with the stone."
+          ],
+          [
+               "Eori paa asun bona moon bona toraara.",
+               "They killed the woman with the axe."
+          ],
+          [
+               "Enam paa dao a visoasi bona oraoraa.",
+               "We called the boy a sorcerer."
+          ]
+     ],
+     "test": [
+          [
+               "Eam paa ani a overe.",
+               "You.PL ate the coconut.",
+               ">"
+          ],
+          [
+               "Ean paa tasu a oraoraa bona kae.",
+               "You.SG struck the sorcerer with the bag.",
+               ">"
+          ],
+          [
+               "Eove paa tara ameam.",
+               "He saw us.",
+               ">"
+          ],
+          [
+               "Enam paa hee a taba’ani bona tasu.",
+               "We gave the food to you.SG.",
+               "<"
+          ],
+          [
+               "Eori paa dao enaa bona beiko.",
+               "He called me a child.",
+               "<"
+          ],
+          [
+               "Enaa paa asun bona oraoraa.",
+               "I killed him with (it/him).",
+               "<"
+          ],
+          [
+               "A oraoraa paa hee a ani bona asun.",
+               "The sorcerer gave the fish to the boy.",
+               "<"
+          ]
+     ]
+}

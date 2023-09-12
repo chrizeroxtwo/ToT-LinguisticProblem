@@ -1,0 +1,80 @@
+{
+     "source_language": "basque",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "Emakumeak gizona ikusi du.",
+               "The woman has seen the man."
+          ],
+          [
+               "Zuk umea ikusi duzu kalean.",
+               "You.SG have seen the child in the street."
+          ],
+          [
+               "Non ikusi duzu umea?",
+               "Where have you seen the child?"
+          ],
+          [
+               "Nork ikusi du umea kalean?",
+               "Who has seen the child in the street?"
+          ],
+          [
+               "Umeak ez du gizona ikusi.",
+               "The child has not seen the man."
+          ],
+          [
+               "Emakumeak liburua irakurri du.",
+               "The woman has read the book."
+          ],
+          [
+               "Umea etorri da.",
+               "The child has (come/arrived)."
+          ],
+          [
+               "Umea kalean erori da.",
+               "The child has fallen in the street."
+          ],
+          [
+               "Igela agertu da.",
+               "The frog has appeared."
+          ]
+     ],
+     "test": [
+          [
+               "Nork ikusi du gizona?",
+               "Who has seen the man?",
+               ">"
+          ],
+          [
+               "Igela kalean agertu da.",
+               "The frog has appeared in the street.",
+               ">"
+          ],
+          [
+               "Emakumea etorri da.",
+               "The woman has come.",
+               "<"
+          ],
+          [
+               "Gizona emakumea ikusi du.",
+               "The man has seen the woman.",
+               "<"
+          ],
+          [
+               "Liburua ez da iritsi.",
+               "The book has not arrived.",
+               "<"
+          ],
+          [
+               "Emakumeak umeari etorrarazi dio.",
+               "The woman has brought the child.",
+               ">"
+          ],
+          [
+               "Umeak igelari emakumeari eman dio.",
+               "The child has given the frog to the nwoman.",
+               "<"
+          ]
+     ]
+}

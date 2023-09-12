@@ -1,0 +1,115 @@
+{
+     "source_language": "witsuwit’en",
+     "target_language": "english",
+     "meta": "",
+     "train": [
+          [
+               "bət",
+               "abdomen"
+          ],
+          [
+               "bətdeχ",
+               "upper part of stomach"
+          ],
+          [
+               "cəs",
+               "feather"
+          ],
+          [
+               "deχ",
+               "top"
+          ],
+          [
+               "Deχyəs",
+               "snow on (branches/rooftops)"
+          ],
+          [
+               "Dəlkw’aχ",
+               "frog"
+          ],
+          [
+               "dəlkw’aχbət",
+               "light blue"
+          ],
+          [
+               "Dəlkw’aχdətay",
+               "bat"
+          ],
+          [
+               "Dəlkw’aχneɬdəc",
+               "broadleaf plantain"
+          ],
+          [
+               "Dəlkw’aχneɬdəc",
+               "man"
+          ],
+          [
+               "Dəninin",
+               "penny"
+          ],
+          [
+               "ɬəc",
+               "dog"
+          ],
+          [
+               "ɬəctl’ol",
+               "dog harness"
+          ],
+          [
+               "ɬəcyəs",
+               "wolf"
+          ],
+          [
+               "ɬədəni",
+               "male dog"
+          ],
+          [
+               "ɬənani",
+               "female dog"
+          ],
+          [
+               "neɬdəc",
+               "blanket"
+          ],
+          [
+               "nin",
+               "face"
+          ],
+          [
+               "wəq’əz",
+               "cold"
+          ],
+          [
+               "wəq’əz yəs",
+               "fine powder snow"
+          ],
+          [
+               "wəq’əz ɣu",
+               "icicle"
+          ],
+          [
+               "yəs",
+               "snow"
+          ],
+          [
+               "yəscəs",
+               "snowflake"
+          ],
+          [
+               "ɣu",
+               "tooth"
+          ]
+     ],
+     "test": [
+          [
+               "dətay",
+               "cəs",
+               ">"
+          ],
+          [
+               "tl’ol",
+               "dog harness",
+               ">"
+          ]
+     ]
+}

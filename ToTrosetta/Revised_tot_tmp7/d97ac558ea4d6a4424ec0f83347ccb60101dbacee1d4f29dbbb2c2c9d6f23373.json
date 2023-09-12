@@ -1,0 +1,76 @@
+{
+     "source_language": "kayapo",
+     "target_language": "english",
+     "meta": "ẽ and ê are specific vowels of Kayapo",
+     "train": [
+          [
+               "atoro kêt",
+               "You are not dancing"
+          ],
+          [
+               "ba mẽ mẽ anhê",
+               "We are decorating you.PL"
+          ],
+          [
+               "ba rê",
+               "I am swimming"
+          ],
+          [
+               "ga iku",
+               "You are devouring me"
+          ],
+          [
+               "ga mẽ to",
+               "You.PL are dancing"
+          ],
+          [
+               "ijе mẽ akuru kêt",
+               "I am not devouring you.PL"
+          ],
+          [
+               "mẽ ajе inhêrê kêt",
+               "You.PL are not decorating me"
+          ],
+          [
+               "mẽ irêrê kêt",
+               "We are not swimming"
+          ]
+     ],
+     "test": [
+          [
+               "ga mẽ iku ba ê",
+               "You.PL are not devouring us",
+               "<"
+          ],
+          [
+               "ba mẽ inhêrê kêt",
+               "We are not decorating you.PL",
+               "<"
+          ],
+          [
+               "ba mẽ kêt",
+               "We are dancing",
+               "<"
+          ],
+          [
+               "ga aku ba ê",
+               "I am devouring you",
+               "<"
+          ],
+          [
+               "aje ikuru kêt",
+               "You.PL are devouring us",
+               ">"
+          ],
+          [
+               "ba mẽ aku",
+               "We are devouring you.PL.",
+               ">"
+          ],
+          [
+               "irêrê kêt",
+               "We are not swimming.",
+               ">"
+          ]
+     ]
+}

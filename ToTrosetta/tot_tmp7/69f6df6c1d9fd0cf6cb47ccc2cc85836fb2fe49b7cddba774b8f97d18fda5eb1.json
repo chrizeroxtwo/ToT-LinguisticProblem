@@ -1,0 +1,51 @@
+{
+     "source_language": "persian",
+     "target_language": "english",
+     "meta": "ā, å, š, č, ğ, ' represent specific Persian sounds.",
+     "train": [
+          [
+               "gorbe zir-e raxtexāb",
+               "the cat under the bed"
+          ],
+          [
+               "xåne pāin-e kuh",
+               "the house under the mountain"
+          ],
+          [
+               "čahārpāye zir-e miz",
+               "the stool under the table"
+          ],
+          [
+               "ğāyeğ zir-e pol",
+               "the boat under the bridge"
+          ],
+          [
+               "amānat pāin-e dar",
+               "the package under the door"
+          ],
+          [
+               "šahr zir-e āftāb",
+               "the city under the sun"
+          ],
+          [
+               "nāme zir-e ketāb",
+               "the letter under the book"
+          ],
+          [
+               "ketāb pāin-e komod",
+               "the book on the lowest shelf in the bookcase"
+          ]
+     ],
+     "test": [
+          [
+               "čahārpāye pāin-e miz",
+               "The stool under the table.",
+               ">"
+          ],
+          [
+               "ketāb zir-e komod",
+               "The book under the shelf.",
+               ">"
+          ]
+     ]
+}

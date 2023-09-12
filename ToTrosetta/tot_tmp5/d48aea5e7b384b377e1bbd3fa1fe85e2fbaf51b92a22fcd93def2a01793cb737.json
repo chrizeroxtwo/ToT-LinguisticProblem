@@ -1,0 +1,161 @@
+{
+     "source_language": "yidiny",
+     "target_language": "english",
+     "meta": "ɽ, ȷ, ŋ, ɲ are consonants.",
+     "train": [
+          [
+               "guda:ga",
+               "dog"
+          ],
+          [
+               "buɲa",
+               "woman"
+          ],
+          [
+               "wagu:ȷa",
+               "man"
+          ],
+          [
+               "muyubara",
+               "stranger"
+          ],
+          [
+               "gaȷagimba:gu",
+               "for a white man"
+          ],
+          [
+               "bamagimbal",
+               "without a person"
+          ],
+          [
+               "bama:gu",
+               "for a person"
+          ],
+          [
+               "bimbi:bi",
+               "another father"
+          ],
+          [
+               "mularigu",
+               "for an initiated man"
+          ],
+          [
+               "mularini",
+               "of an initiated man"
+          ],
+          [
+               "buɲa:m",
+               "from a woman"
+          ],
+          [
+               "gudagabi",
+               "another dog"
+          ],
+          [
+               "gaȷagimba:m",
+               "from a white man"
+          ],
+          [
+               "biɲȷi:ngu",
+               "for a hornet"
+          ],
+          [
+               "bimbi:n",
+               "of a father"
+          ],
+          [
+               "muȷam",
+               "mother"
+          ],
+          [
+               "biɲȷi:nmu",
+               "from a hornet"
+          ],
+          [
+               "maȷu:rbi",
+               "another frog"
+          ],
+          [
+               "buɲagimbal",
+               "without a woman"
+          ],
+          [
+               "baȷigalni",
+               "of a tortoise"
+          ],
+          [
+               "ȷudu:lumuȷay",
+               "with a pigeon"
+          ],
+          [
+               "mugaɽumu",
+               "from a fishing net"
+          ],
+          [
+               "waŋa:lgu",
+               "for a boomerang"
+          ]
+     ],
+     "test": [
+          [
+               "bama:n",
+               "of a person",
+               ">"
+          ],
+          [
+               "buɲa:bi",
+               "another woman",
+               ">"
+          ],
+          [
+               "maȷurmuȷay",
+               "with a frog",
+               ">"
+          ],
+          [
+               "muȷa:mni",
+               "for a mother",
+               ">"
+          ],
+          [
+               "of a stranger",
+               "of a stranger",
+               "<"
+          ],
+          [
+               "mugaɽu:ȷagu",
+               "for a fishing net",
+               "<"
+          ],
+          [
+               "muȷa",
+               "father",
+               "<"
+          ],
+          [
+               "maȷurmu",
+               "from a frog",
+               "<"
+          ],
+          [
+               "buɲagimba:gu",
+               "without a man",
+               "<"
+          ],
+          [
+               "ȷudu:lumu",
+               "of a pigeon",
+               "<"
+          ],
+          [
+               "baȷigalni",
+               "tortoise",
+               "<"
+          ],
+          [
+               "buɲa:lgu",
+               "without a boomerang",
+               "<"
+          ]
+     ]
+}
