@@ -6,7 +6,7 @@ import time
 import os
 import shutil
 from tqdm import tqdm
-
+  
 maxstep = 100 #最多走幾步
 API_key = '' #Enter your key here
 thoughts_per_node = 3 #一次幾個candidate
