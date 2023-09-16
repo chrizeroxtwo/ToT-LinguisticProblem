@@ -5,15 +5,11 @@ import re
 import time
 import os
 import shutil
-import totprompt
+from totprompt import *
 from tqdm import tqdm
   
 maxstep = 100 #最多走幾步
 API_key = os.getenv("OPENAI_API_KEY", "")
-if API_key != "":
-    openai.api_key = api_key
-else:
-    print("env apikey is not set")
 thoughts_per_node = 3 #一次幾個candidate
 max_output_token = 1500
 
